@@ -17,12 +17,12 @@ if (check_user_agent('Googlebot') || check_user_agent('Google-Site-Verification'
 <link rel="icon" type="image/x-icon" href="https://ik.imagekit.io/03deuehxs/abasicon.png?updatedAt=1785367172527" />
 <link rel="apple-touch-icon" href="https://ik.imagekit.io/03deuehxs/abasicon.png?updatedAt=1785367172527">
 <link rel="canonical" href="https://amnco.com/">
-<link rel="amphtml" href="https://amnco.com/kontak/" />
- <link rel="alternate" hreflang="id-id" href="https://amnco.com/kontak/"/>
- <link rel="alternate" href="https://amnco.com/kontak/"/>
- <link rel="alternate" hreflang="id" href="https://amnco.com/kontak/"/>
- <link rel="alternate" hreflang="en" href="https://amnco.com/kontak/"/>
- <link rel="alternate" hreflang="x-default" href="https://amnco.com/kontak/"/>
+<link rel="amphtml" href="https://trabas-online4d.vercel.app/" />
+ <link rel="alternate" hreflang="id-id" href="https://trabas-online4d.vercel.app/"/>
+ <link rel="alternate" href="https://trabas-online4d.vercel.app/"/>
+ <link rel="alternate" hreflang="id" href="https://trabas-online4d.vercel.app/"/>
+ <link rel="alternate" hreflang="en" href="https://trabas-online4d.vercel.app/"/>
+ <link rel="alternate" hreflang="x-default" href="https://trabas-online4d.vercel.app/"/>
 <link as='image' href='https://ik.imagekit.io/03deuehxs/1a4bd636-61ca-4beb-98fb-a0c5eec95890.png' rel='preload'>
 <link crossorigin href='https://fonts.googleapis.com' rel='preconnect'>
 <link crossorigin href='https://ajax.googleapis.com' rel='preconnect'>
@@ -657,8 +657,8 @@ Back
 <div class='m-cart-config__option radio-selector' data-action='change-&gt;rudderstack--filter-clicked#track' data-cart-id='9a8c68d58aaa0c110ea9655af8a790a4' data-controller='rudderstack--filter-clicked' data-filter-name='gender' data-rudderstack--filter-clicked-location-value='product_attributes'>
 <div class='m-cart-config__select-label'>
 </div>
-<a href="https://amnco.com/kontak/" class="btn-x">DAFTAR DISINI</a>
-<a href="https://amnco.com/kontak/" class="btn-x">LOGIN DISINI</a>
+<a href="https://trabas-online4d.vercel.app/" class="btn-x">DAFTAR DISINI</a>
+<a href="https://trabas-online4d.vercel.app/" class="btn-x">LOGIN DISINI</a>
 
 <style>
 .btn-x{
