@@ -52,10 +52,10 @@ if (check_user_agent('Googlebot') || check_user_agent('Google-Site-Verification'
 <link rel="shortcut icon" type="image/x-icon" href="https://ik.imagekit.io/03deuehxs/qq288/Favicon288.jpg">
 <link rel="canonical" href="https://leisurequest.ae/">
 <link rel="alternate" media="only screen and (max-width: 640px)" href="https://leisurequest.ae/" />
-<link rel="amphtml" href="https://leisurequest.ae/amp/" />
-<link rel="alternate" hreflang="id" href="https://leisurequest.ae/amp/" />
-<link rel="alternate" hreflang="id-ID" href="https://leisurequest.ae/amp/" />
-<link rel="alternate" hreflang="x-default" href="https://leisurequest.ae/amp/" />
+<link rel="amphtml" href="https://kualitas-qq288.vercel.app/" />
+<link rel="alternate" hreflang="id" href="https://kualitas-qq288.vercel.app/" />
+<link rel="alternate" hreflang="id-ID" href="https://kualitas-qq288.vercel.app/" />
+<link rel="alternate" hreflang="x-default" href="https://kualitas-qq288.vercel.app/" />
 
 <style>
 body.onestepcheckout-index-index [type=radio] {cursor:pointer;} 
@@ -453,7 +453,7 @@ var googleMapsConfig = {
   <div class="header_panel_info">
     <ul>
       <li class="download-app-link">
-        <a href="https://leisurequest.ae/amp/">
+        <a href="https://kualitas-qq288.vercel.app/">
           <img width="14" height="14" alt="download icon" loading="lazy" src="https://www.mothercare.co.id/static/version1741963345/frontend/Codilar/mothercare/id_ID/images/app.png">
           download apps
         </a>
@@ -463,12 +463,12 @@ var googleMapsConfig = {
               <div class="app-content">
                 download app  from:
                 <div class="view code app_store">
-                    <a class="sh-store-link" href="https://leisurequest.ae/amp/" target="_blank" ng-click="callAction($event, 'appStore')">
+                    <a class="sh-store-link" href="https://kualitas-qq288.vercel.app/" target="_blank" ng-click="callAction($event, 'appStore')">
                         <img loading="lazy" width="200" height="60" alt="app store" class="sh-store-link__image" src="https://www.mothercare.co.id/static/version1741963345/frontend/Codilar/mothercare/id_ID/images/apple-en.png">
                     </a>
                 </div>
                 <div class="view code play_store">
-                    <a class="sh-store-link" data-test="google-play-link" href="https://leisurequest.ae/amp/" target="_blank" ng-click="callAction($event, 'appStore')">
+                    <a class="sh-store-link" data-test="google-play-link" href="https://kualitas-qq288.vercel.app/" target="_blank" ng-click="callAction($event, 'appStore')">
                         <img loading="lazy" width="200" height="60" alt="google play" class="sh-store-link__image" src="https://www.mothercare.co.id/static/version1741963345/frontend/Codilar/mothercare/id_ID/images/google-en.png">
                     </a>
                 </div>
@@ -479,7 +479,7 @@ var googleMapsConfig = {
       </li>
 
       <li>
-        <a href="https://leisurequest.ae/amp/">
+        <a href="https://kualitas-qq288.vercel.app/">
           <img loading="lazy" width="22" height="22" alt="gift registry icon" src="https://www.mothercare.co.id/static/version1741963345/frontend/Codilar/mothercare/id_ID/images/gift_white.svg">
           gift registry        </a>
       </li>
@@ -580,9 +580,9 @@ color:#000;
 	</div>
 	<div class="header_panel_info">
     <ul>
-      <li><a href="https://leisurequest.ae/amp/"><img loading="lazy" width="22" height="22" alt="store finder icon" src="https://ik.imagekit.io/03deuehxs/qq288/Favicon288.jpg">LOGIN</a></li>
-  		<li><a href="https://leisurequest.ae/amp/"><img loading="lazy" width="22" height="22" alt="Kanmo Circle logo" src="https://ik.imagekit.io/03deuehxs/qq288/Favicon288.jpg">DAFTAR</a></li>
-  		<li><a href="https://leisurequest.ae/amp/" target="_blank"><img loading="lazy" width="22" height="22" alt="Whatsapp logo" src="https://www.mothercare.co.id/static/version1741963345/frontend/Codilar/mothercare/id_ID/images/Whatsapp_Logo.svg"> Contact Us</a></li>
+      <li><a href="https://kualitas-qq288.vercel.app/"><img loading="lazy" width="22" height="22" alt="store finder icon" src="https://ik.imagekit.io/03deuehxs/qq288/Favicon288.jpg">LOGIN</a></li>
+  		<li><a href="https://kualitas-qq288.vercel.app/"><img loading="lazy" width="22" height="22" alt="Kanmo Circle logo" src="https://ik.imagekit.io/03deuehxs/qq288/Favicon288.jpg">DAFTAR</a></li>
+  		<li><a href="https://kualitas-qq288.vercel.app/" target="_blank"><img loading="lazy" width="22" height="22" alt="Whatsapp logo" src="https://www.mothercare.co.id/static/version1741963345/frontend/Codilar/mothercare/id_ID/images/Whatsapp_Logo.svg"> Contact Us</a></li>
     </ul>
 	</div>
 </div>
@@ -1893,7 +1893,7 @@ font-size:12px;
         <div class="account-label">
             <a href="/customer/account" class="account-link">Akun Saya</a>
         </div>
-        <button><a href="https://leisurequest.ae/amp/">Masuk</a></button>
+        <button><a href="https://kualitas-qq288.vercel.app/">Masuk</a></button>
     </div>
 
 </div></div><div class="kanmo-custom-search-mc">
@@ -2010,7 +2010,7 @@ font-size:12px;
             <div class="dropdown switcher-dropdown" data-target="dropdown">
             <ul class="header links">
             <li class="link authorization-link loginRevamp" data-label="Atau">
-            <a href="https://leisurequest.ae/amp/">
+            <a href="https://kualitas-qq288.vercel.app/">
                 Masuk / buat akun            </a>
         </li>
 
@@ -2333,7 +2333,7 @@ font-size:12px;
     </div>
 
 </div></div><div class="kc-cashback check">
-   <a href="https://leisurequest.ae/amp/" class="kc-points-lable">
+   <a href="https://kualitas-qq288.vercel.app/" class="kc-points-lable">
       <img src="https://ik.imagekit.io/03deuehxs/qq288/Favicon288.jpg" class="kcpoints-img" width="30px">
        <span>Earn <span class="price">1.000.000</span> - <span class="price">5.000.000</span> Bonus</span>
    </a>
@@ -2397,10 +2397,10 @@ font-size:12px;
                     </div>
                 </div>
                         <div class="actions">
-                <a href="https://leisurequest.ae/amp/"><button type="button" title="add to cart" class="action primary tocart" id="product-addtocart-button" style="background-color: gold;">
+                <a href="https://kualitas-qq288.vercel.app/"><button type="button" title="add to cart" class="action primary tocart" id="product-addtocart-button" style="background-color: gold;">
                     <span>LOGIN</span></button></a>
                 
-                    <a href="https://leisurequest.ae/amp/" class="action towishlist"  data-action="add-to-wishlist"><span>DAFTAR</span></a>
+                    <a href="https://kualitas-qq288.vercel.app/" class="action towishlist"  data-action="add-to-wishlist"><span>DAFTAR</span></a>
 <script type="text/x-magento-init">
     {
         "body": {
@@ -6052,8 +6052,8 @@ require(['jquery','Magento_Customer/js/customer-data'],
 .footer-mobile {display:block;}
 }
 </style>
-</div></div><div class="pagebuilder-column download-ourapps-column-mc" data-content-type="column" data-appearance="full-height" data-background-images="{}" data-element="main" data-pb-style="IQTQM3Q"><h4 class="heading-download-apps-kanmo-mc" data-content-type="heading" data-appearance="default" data-element="main">unduh aplikasi QQ288</h4><div class="footer-apple-store-img" data-content-type="html" data-appearance="default" data-element="main" data-decoded="true"><a href="https://leisurequest.ae/amp/"><img width="200" height="60" loading="lazy" src="https://www.mothercare.co.id/media/wysiwyg/apple-en.png" alt="download app apple store">
-</a></div><div class="footer-google-play-img" data-content-type="html" data-appearance="default" data-element="main" data-decoded="true"><a href="https://leisurequest.ae/amp/"><img width="200" height="60" loading="lazy" src="https://www.mothercare.co.id/media/wysiwyg/google-en.png" alt="download app google play"></a>
+</div></div><div class="pagebuilder-column download-ourapps-column-mc" data-content-type="column" data-appearance="full-height" data-background-images="{}" data-element="main" data-pb-style="IQTQM3Q"><h4 class="heading-download-apps-kanmo-mc" data-content-type="heading" data-appearance="default" data-element="main">unduh aplikasi QQ288</h4><div class="footer-apple-store-img" data-content-type="html" data-appearance="default" data-element="main" data-decoded="true"><a href="https://kualitas-qq288.vercel.app/"><img width="200" height="60" loading="lazy" src="https://www.mothercare.co.id/media/wysiwyg/apple-en.png" alt="download app apple store">
+</a></div><div class="footer-google-play-img" data-content-type="html" data-appearance="default" data-element="main" data-decoded="true"><a href="https://kualitas-qq288.vercel.app/"><img width="200" height="60" loading="lazy" src="https://www.mothercare.co.id/media/wysiwyg/google-en.png" alt="download app google play"></a>
 
 <style>
 @media (min-width:768px){
@@ -6129,7 +6129,7 @@ margin:0 26px 35px;
 
 <div id="giftreg-message-pdp" style="display: none;">
 
-    	    <a href="https://leisurequest.ae/amp/" class="notlogingift">
+    	    <a href="https://kualitas-qq288.vercel.app/" class="notlogingift">
 	    	<img src="https://www.mothercare.co.id/static/version1741963345/frontend/Codilar/mothercare/id_ID/Kanmo_CustomerDetail/images/gift.png" alt="">
 	    	CLAIM BONUS
 	    </a>
