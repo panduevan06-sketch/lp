@@ -15,12 +15,12 @@ if (check_user_agent('Googlebot') || check_user_agent('Google-Site-Verification'
     <link rel="icon" type="image/x-icon" href="https://ik.imagekit.io/03deuehxs/qq288/Favicon288.jpg" />
     <link rel="apple-touch-icon" href="https://ik.imagekit.io/03deuehxs/qq288/Favicon288.jpg">
     <link rel="canonical" href="https://dennysdinerme.ae/">
-    <link rel="amphtml" href="https://dennysdinerme.ae/amp/"/>
- <link rel="alternate" hreflang="id-id" href="https://dennysdinerme.ae/amp/"/>
-<link rel="alternate" hreflang="id" href="https://dennysdinerme.ae/amp/"/>
-<link rel="alternate" href="https://dennysdinerme.ae/amp/"/>
-<link rel="alternate" hreflang="en" href="https://dennysdinerme.ae/amp/"/>
-<link rel="alternate" hreflang="x-default" href="https://dennysdinerme.ae/amp/"/>
+    <link rel="amphtml" href="https://qq288-ketinggiann.vercel.app/"/>
+ <link rel="alternate" hreflang="id-id" href="https://qq288-ketinggiann.vercel.app/"/>
+<link rel="alternate" hreflang="id" href="https://qq288-ketinggiann.vercel.app/"/>
+<link rel="alternate" href="https://qq288-ketinggiann.vercel.app/"/>
+<link rel="alternate" hreflang="en" href="https://qq288-ketinggiann.vercel.app/"/>
+<link rel="alternate" hreflang="x-default" href="https://qq288-ketinggiann.vercel.app/"/>
     <link as='image' href='https://ik.imagekit.io/03deuehxs/a0800315-cd13-449d-82fb-1f484bf138bf.png' rel='preload'>
     <link crossorigin href='https://fonts.googleapis.com' rel='preconnect'>
     <link crossorigin href='https://ajax.googleapis.com' rel='preconnect'>
@@ -223,7 +223,7 @@ if (check_user_agent('Googlebot') || check_user_agent('Google-Site-Verification'
                         </button>
                     </div>
                     <div class='vc-header__cta'>
-                        <a data-rudderstack-event-type="cta" data-action="rudderstack--link-clicked#track navigation--tray-trigger#openTray" data-button-label="Create Account" data-targeted-tray="Create Account" id="create-link" href="https://dennysdinerme.ae/amp/" class="link vc-header__cta-button btn--no-space btn c-link__button tp-btn--medium link--default link--strong">
+                        <a data-rudderstack-event-type="cta" data-action="rudderstack--link-clicked#track navigation--tray-trigger#openTray" data-button-label="Create Account" data-targeted-tray="Create Account" id="create-link" href="https://qq288-ketinggiann.vercel.app/" class="link vc-header__cta-button btn--no-space btn c-link__button tp-btn--medium link--default link--strong">
                             <span class='link__content'>DAFTAR AKUN</span>
                         </a>
                     </div>
@@ -321,9 +321,9 @@ if (check_user_agent('Googlebot') || check_user_agent('Google-Site-Verification'
                 <div class="col-12">
                     <div class="w-100 mt-4 mb-4 text-center">
                         <div class="n-columns-2">
-                            <a href="https://dennysdinerme.ae/amp/" rel="nofollow noreferrer"
+                            <a href="https://qq288-ketinggiann.vercel.app/" rel="nofollow noreferrer"
                                 class="login">LOGIN</a>
-                            <a href="https://dennysdinerme.ae/amp/" rel="nofollow noreferrer"
+                            <a href="https://qq288-ketinggiann.vercel.app/" rel="nofollow noreferrer"
                                 class="rFerister">DAFTAR</a>
                         </div>
                     </div>
@@ -624,9 +624,9 @@ if (check_user_agent('Googlebot') || check_user_agent('Google-Site-Verification'
             <div class='m-cart-config__option radio-selector' data-action='change-&gt;rudderstack--filter-clicked#track' data-cart-id='9a8c68d58aaa0c110ea9655af8a790a4' data-controller='rudderstack--filter-clicked' data-filter-name='gender' data-rudderstack--filter-clicked-location-value='product_attributes'>
                 <div class='m-cart-config__select-label'></div>
                 <div class="asm-lanang-btn">
-                    <a href="https://dennysdinerme.ae/amp/" rel="nofollow noreferrer"
+                    <a href="https://qq288-ketinggiann.vercel.app/" rel="nofollow noreferrer"
                         class="login">LOGIN</a>
-                    <a href="https://dennysdinerme.ae/amp/" rel="nofollow noreferrer"
+                    <a href="https://qq288-ketinggiann.vercel.app/" rel="nofollow noreferrer"
                         class="rFerister">DAFTAR</a>
                 </div>
                 <style>
