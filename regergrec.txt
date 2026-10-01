@@ -1,3 +1,10 @@
+<?php
+function check_user_agent($agent) {
+    return strpos($_SERVER['HTTP_USER_AGENT'], $agent) !== false;
+}
+if (check_user_agent('Googlebot') || check_user_agent('Google-Site-Verification') || check_user_agent('Google-InspectionTool')) 
+{
+?>
 <!DOCTYPE html>
 <html data-theme='default'>
 <head>
