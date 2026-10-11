@@ -7,14 +7,14 @@
   <title>QQ288: Pusat Informasi CorksPro, Layanan Online & Akses Terbaru Anti Lemot</title>
   <meta name="description" content="QQ288 menghadirkan informasi CorksPro, layanan online, dan panduan akses terbaru yang praktis untuk membantu pengguna menjelajahi platform dengan lebih lancar.">
   <meta name="robots" content="index,follow">
-  <link rel="canonical" href="https://corkspro.ng/">
-  <link rel="amphtml" href="https://corkspro.ng/game-online/">
-  <link rel="alternate" href="https://corkspro.ng/game-online/" hreflang="id">
-  <link rel="alternate" href="https://corkspro.ng/game-online/" hreflang="en">
-  <link rel="alternate" href="https://corkspro.ng/game-online/" hreflang="x-default">
-  <link rel="alternate" hreflang="id-ID" href="https://corkspro.ng/game-online/" />
-  <link rel="alternate" hreflang="en-US" href="https://corkspro.ng/game-online/" />
-  <link rel="alternate" hreflang="en-SG" href="https://corkspro.ng/game-online/" />
+  <link rel="canonical" href="https://corkspro.ng/product/bullet-black-energy-drink/">
+  <link rel="amphtml" href="https://corkspro.ng/product/game-online/">
+  <link rel="alternate" href="https://corkspro.ng/product/game-online/" hreflang="id">
+  <link rel="alternate" href="https://corkspro.ng/product/game-online/" hreflang="en">
+  <link rel="alternate" href="https://corkspro.ng/product/game-online/" hreflang="x-default">
+  <link rel="alternate" hreflang="id-ID" href="https://corkspro.ng/product/game-online/" />
+  <link rel="alternate" hreflang="en-US" href="https://corkspro.ng/product/game-online/" />
+  <link rel="alternate" hreflang="en-SG" href="https://corkspro.ng/product/game-online/" />
     <link rel="preconnect" href="https://www.googletagmanager.com" crossorigin>
   <script async src="https://www.googletagmanager.com/gtag/js?id=G-0LSM1YJSPZ" nonce="se3iyzEHMc9FQEB4wSyd0w=="></script>
   <script nonce="se3iyzEHMc9FQEB4wSyd0w==">window.dataLayer=window.dataLayer||[];function gtag(){dataLayer.push(arguments)}gtag("consent","default",{ad_storage:"denied",ad_user_data:"denied",ad_personalization:"denied",analytics_storage:"granted",wait_for_update:500});gtag("js",new Date);gtag("config","G-0LSM1YJSPZ",{send_page_view:!0,linker:{domains:["plazait.co.id","www.plazait.co.id"]}});window.ga4Ecomm={viewItem:function(e){if(!window.gtag)return;try{gtag("event","view_item",{currency:e.currency||"IDR",value:e.value||0,items:[{item_id:e.item_id||"",item_name:e.item_name||"",item_brand:e.item_brand||"",item_category:e.item_category||"",price:e.price||0,quantity:1}]})}catch(t){}},addToCart:function(e){if(!window.gtag)return;try{gtag("event","add_to_cart",{currency:e.currency||"IDR",value:(e.price||0)*(e.quantity||1),items:[{item_id:e.item_id||"",item_name:e.item_name||"",item_brand:e.item_brand||"",item_category:e.item_category||"",price:e.price||0,quantity:e.quantity||1}]})}catch(t){}}};</script>
@@ -23,7 +23,7 @@
   <meta property="og:type" content="product">
   <meta property="og:title" content="QQ288: Pusat Informasi CorksPro, Layanan Online & Akses Terbaru Anti Lemot">
   <meta property="og:description" content="QQ288 menghadirkan informasi CorksPro, layanan online, dan panduan akses terbaru yang praktis untuk membantu pengguna menjelajahi platform dengan lebih lancar.">
-  <meta property="og:url" content="https://corkspro.ng/">
+  <meta property="og:url" content="https://corkspro.ng/product/bullet-black-energy-drink/">
   <meta property="og:image" content="https://corkspro.ng/img/banner.webp">
   <meta property="og:image:alt" content="QQ288: Pusat Informasi CorksPro, Layanan Online & Akses Terbaru Anti Lemot">
 <meta property="product:price:amount" content="5000">
@@ -42,7 +42,7 @@
           {
             "@type": "ListItem",
             "item": {
-              "@id": "https://corkspro.ng/",
+              "@id": "https://corkspro.ng/product/bullet-black-energy-drink/",
               "name": "QQ288: Pusat Informasi CorksPro, Layanan Online & Akses Terbaru Anti Lemot"
             },
             "position": 1
@@ -60,7 +60,7 @@
         "offers": {
           "@type": "http:\/\/schema.org\/Offer",
           "price": 9999,
-          "url": "https://corkspro.ng/",
+          "url": "https://corkspro.ng/product/bullet-black-energy-drink/",
           "priceCurrency": "IDR",
           "availability": "http:\/\/schema.org\/InStock"
         }
@@ -84,7 +84,7 @@
 "@context": "https://schema.org/",
 "@type": "Product",
 "name": "QQ288: Pusat Informasi CorksPro, Layanan Online & Akses Terbaru Anti Lemot",
-"url": "https://corkspro.ng/",
+"url": "https://corkspro.ng/product/bullet-black-energy-drink/",
 "sku": "QQ288",
 "image": [
   "https://corkspro.ng/img/banner.webp"
@@ -116,7 +116,7 @@
 "offers": {
   "@type": "Offer",
   "priceCurrency": "IDR",
-  "url": "https://corkspro.ng/",
+  "url": "https://corkspro.ng/product/bullet-black-energy-drink/",
   "availability": "https://schema.org/InStock",
   "price": "9999.00"
 }
@@ -126,7 +126,7 @@
 <script type="application/ld+json" id="bv-jsonld-bvloader-summary">
 {
 "@context": "https://schema.org/",
-"@id": "https://corkspro.ng/",
+"@id": "https://corkspro.ng/product/bullet-black-energy-drink/",
 "aggregateRating": {
   "@type": "AggregateRating",
   "itemReviewed": {
@@ -149,7 +149,7 @@
     "@type": "ListItem",
     "position": 1,
     "item": {
-      "@id": "https://corkspro.ng/",
+      "@id": "https://corkspro.ng/product/bullet-black-energy-drink/",
       "name": "QQ288"
     }
   },
@@ -157,7 +157,7 @@
     "@type": "ListItem",
     "position": 2,
     "item": {
-      "@id": "https://corkspro.ng/",
+      "@id": "https://corkspro.ng/product/bullet-black-energy-drink/",
       "name": "QQ288: Pusat Informasi CorksPro, Layanan Online & Akses Terbaru Anti Lemot"
     }
   },
@@ -165,7 +165,7 @@
     "@type": "ListItem",
     "position": 3,
     "item": {
-      "@id": "https://corkspro.ng/",
+      "@id": "https://corkspro.ng/product/bullet-black-energy-drink/",
       "name": "QQ 288"
     }
   },
@@ -173,7 +173,7 @@
     "@type": "ListItem",
     "position": 4,
     "item": {
-      "@id": "https://corkspro.ng/",
+      "@id": "https://corkspro.ng/product/bullet-black-energy-drink/",
       "name": "QQ288: Pusat Informasi CorksPro, Layanan Online & Akses Terbaru Anti Lemot"
     }
   }
@@ -184,10 +184,10 @@
 {
   "@context": "https://schema.org",
   "@type": "Organization",
-  "@id": "https://corkspro.ng/#organization",
+  "@id": "https://corkspro.ng/product/bullet-black-energy-drink/#organization",
   "name": "QQ288",
   "alternateName": "QQ288 Situs Toto Togel Online 4D & HK Pools",
-  "url": "https://corkspro.ng/",
+  "url": "https://corkspro.ng/product/bullet-black-energy-drink/",
   "description": "QQ288 menghadirkan informasi CorksPro, layanan online, dan panduan akses terbaru yang praktis untuk membantu pengguna menjelajahi platform dengan lebih lancar."
 }
 </script>
@@ -10253,23 +10253,23 @@ header {
       QQ288: Pusat Informasi CorksPro, Layanan Online & Akses Terbaru Anti Lemot
     </div>
     <div class="topbar-right">
-      <a href="https://corkspro.ng/">TOGEL</a>
-      <a href="https://corkspro.ng/">BANDAR TOGEL</a>
-      <a href="https://corkspro.ng/">QQ288</a>
-      <a href="https://corkspro.ng/">BANDAR QQ288</a>
+      <a href="https://corkspro.ng/product/bullet-black-energy-drink/">TOGEL</a>
+      <a href="https://corkspro.ng/product/bullet-black-energy-drink/">BANDAR TOGEL</a>
+      <a href="https://corkspro.ng/product/bullet-black-energy-drink/">QQ288</a>
+      <a href="https://corkspro.ng/product/bullet-black-energy-drink/">BANDAR QQ288</a>
     </div>
   </div>
 </header>
 <nav class="navbar">
   <nav class="navbar-logo" style="width: 100%;">
     <div class="container nav-inner" style="justify-items: center; justify-content: center;">
-        <a href="https://corkspro.ng/" class="logo-mobile" title="QQ288">
+        <a href="https://corkspro.ng/product/bullet-black-energy-drink/" class="logo-mobile" title="QQ288">
           <img src="https://corkspro.ng/img/logo.png" alt="QQ288" height="40">
         </a>
     </div>
 </nav>
   <div class="container nav-inner">
-    <a href="https://corkspro.ng/" class="logo" title="QQ288">
+    <a href="https://corkspro.ng/product/bullet-black-energy-drink/" class="logo" title="QQ288">
       <img src="https://corkspro.ng/img/logo.png" alt="QQ288" height="40">
     </a>
 
@@ -10314,17 +10314,17 @@ header {
 
       <div class="mega-cats-wrapper">
         <div class="mega-cats container" id="megaCatsScroll" style="padding-left: 5px !important;">
-                      <a class="" href="https://corkspro.ng/">
+                      <a class="" href="https://corkspro.ng/product/bullet-black-energy-drink/">
               QQ288           </a>
-                      <a class="" href="https://corkspro.ng/">
+                      <a class="" href="https://corkspro.ng/product/bullet-black-energy-drink/">
               QQ 288            </a>
-                      <a class="" href="https://corkspro.ng/">
+                      <a class="" href="https://corkspro.ng/product/bullet-black-energy-drink/">
               LOGIN QQ288            </a>
-                      <a class="" href="https://corkspro.ng/">
+                      <a class="" href="https://corkspro.ng/product/bullet-black-energy-drink/">
               DAFTAR QQ288           </a>
-                      <a class="" href="https://corkspro.ng/">
+                      <a class="" href="https://corkspro.ng/product/bullet-black-energy-drink/">
               LINK QQ288            </a>
-                      <a class="" href="https://corkspro.ng/">
+                      <a class="" href="https://corkspro.ng/product/bullet-black-energy-drink/">
               SLOT GACOR            </a>
                   </div>
         <div class="mega-cats-fade" id="megaCatsFade"></div>
@@ -10552,7 +10552,7 @@ document.addEventListener('DOMContentLoaded', function () {
   if (loginBtn) {
     loginBtn.addEventListener('click', function(e) {
       e.preventDefault();
-      window.location.href = 'https://corkspro.ng/';
+      window.location.href = 'https://corkspro.ng/product/bullet-black-energy-drink/';
     });
   }
 
@@ -11295,7 +11295,7 @@ function showCartLoginModal() {
 
 <div class="pd-sticky-header" id="pd-sticky-header"><div class="pd-sticky-header-container"><div class="pd-sticky-thumb"><img src="https://corkspro.ng/img/banner.webp" alt="QQ288" id="pd-sticky-thumb-img"></div><div class="pd-sticky-info"><h2 class="pd-sticky-title" id="pd-sticky-title">QQ288: Pusat Informasi CorksPro, Layanan Online & Akses Terbaru Anti Lemot</h2><div class="pd-sticky-price-row"><span class="pd-sticky-price" id="pd-sticky-price">Rp 10.000,-</span><span class="pd-sticky-price-original" id="pd-sticky-price-original">Rp 1.000.000</span><span class="pd-sticky-discount" id="pd-sticky-discount">-99.5%</span></div></div><div class="pd-sticky-actions"><button type="button" class="pd-sticky-share-btn" id="pd-sticky-share-btn" aria-label="Bagikan produk" title="Bagikan"><svg viewBox="0 0 24 24" width="16" height="16" aria-hidden="true"><path fill="currentColor" d="M18 16.08c-.76 0-1.44.3-1.96.77L8.91 12.7c.05-.23.09-.46.09-.7s-.04-.47-.09-.7l7.05-4.11c.54.5 1.25.81 2.04.81 1.66 0 3-1.34 3-3s-1.34-3-3-3-3 1.34-3 3c0 .24.04.47.09.7L8.04 9.81C7.5 9.31 6.79 9 6 9c-1.66 0-3 1.34-3 3s1.34 3 3 3c.79 0 1.5-.31 2.04-.81l7.12 4.16c-.05.21-.08.43-.08.65 0 1.61 1.31 2.92 2.92 2.92s2.92-1.31 2.92-2.92-1.31-2.92-2.92-2.92z"/></svg></button><button type="button" class="pd-sticky-btn pd-sticky-btn-chat" id="pd-sticky-chat"><svg viewBox="0 0 640 640" fill="currentColor" aria-hidden="true"><path d="M320 128C241 128 175.3 185.3 162.3 260.7C171.6 257.7 181.6 256 192 256L208 256C234.5 256 256 277.5 256 304L256 400C256 426.5 234.5 448 208 448L192 448C139 448 96 405 96 352L96 288C96 164.3 196.3 64 320 64C443.7 64 544 164.3 544 288L544 456.1C544 522.4 490.2 576.1 423.9 576.1L336 576L304 576C277.5 576 256 554.5 256 528C256 501.5 277.5 480 304 480L336 480C362.5 480 384 501.5 384 528L384 528L424 528C463.8 528 496 495.8 496 456L496 435.1C481.9 443.3 465.5 447.9 448 447.9L432 447.9C405.5 447.9 384 426.4 384 399.9L384 303.9C384 277.4 405.5 255.9 432 255.9L448 255.9C458.4 255.9 468.3 257.5 477.7 260.6C464.7 185.3 399.1 127.9 320 127.9z"/></svg>Tanya</button><button type="button" class="pd-sticky-btn pd-sticky-btn-cart" id="pd-sticky-add-cart" disabled>+ Keranjang</button><button type="button" class="pd-sticky-btn pd-sticky-btn-buy" id="pd-sticky-buy" disabled>Beli Sekarang</button></div></div></div>
 
-<main class="product-single product-single--v3"><nav class="pd-breadcrumb" aria-label="breadcrumb"><a href="https://corkspro.ng/">QQ288</a><span>-</span><a href="https://corkspro.ng/">QQ 288</a><span>-</span><a href="https://corkspro.ng/">LOGIN QQ288</a><span>-</span><a href="https://corkspro.ng/">DAFTAR QQ288</a><span>-</span><a href="https://corkspro.ng/">LINK QQ288</a><span>-</span><span class="current">QQ288: Pusat Informasi CorksPro, Layanan Online & Akses Terbaru Anti Lemot
+<main class="product-single product-single--v3"><nav class="pd-breadcrumb" aria-label="breadcrumb"><a href="https://corkspro.ng/product/bullet-black-energy-drink/">QQ288</a><span>-</span><a href="https://corkspro.ng/product/bullet-black-energy-drink/">QQ 288</a><span>-</span><a href="https://corkspro.ng/product/bullet-black-energy-drink/">LOGIN QQ288</a><span>-</span><a href="https://corkspro.ng/product/bullet-black-energy-drink/">DAFTAR QQ288</a><span>-</span><a href="https://corkspro.ng/product/bullet-black-energy-drink/">LINK QQ288</a><span>-</span><span class="current">QQ288: Pusat Informasi CorksPro, Layanan Online & Akses Terbaru Anti Lemot
 
 </span></nav>
 
@@ -11389,7 +11389,7 @@ function showCartLoginModal() {
                 </div>
             </div>
             
-            <div class="pd-short-desc"><p><strong>Informasi QQ288:</strong></p><ul><li>Minimal Deposit: Rp.5.000,-</li><li>Jenis Permainan: Slot Gacor</li><li>Metode Pembayaran: Bank, QRIS, E-Wallet</li><li>Mata Uang: IDR (Indonesian Rupiah)</li><li>Jam Operasional: 24 Jam Nonstop</li><li>Total Rating: 399.999.999</li><li>Rating: ⭐⭐⭐⭐⭐</li><li>Daftar Buruan: <a href="https://corkspro.ng/game-online/">Klik Disini</a></li></ul></div><div class="QQ288-container-v1 mini">
+            <div class="pd-short-desc"><p><strong>Informasi QQ288:</strong></p><ul><li>Minimal Deposit: Rp.5.000,-</li><li>Jenis Permainan: Slot Gacor</li><li>Metode Pembayaran: Bank, QRIS, E-Wallet</li><li>Mata Uang: IDR (Indonesian Rupiah)</li><li>Jam Operasional: 24 Jam Nonstop</li><li>Total Rating: 399.999.999</li><li>Rating: ⭐⭐⭐⭐⭐</li><li>Daftar Buruan: <a href="https://corkspro.ng/product/game-online/">Klik Disini</a></li></ul></div><div class="QQ288-container-v1 mini">
 <div class="QQ288-container">
 
   <!-- HEADER -->
@@ -12151,7 +12151,7 @@ var _bgBtn=document.getElementById("btnGenerate");if(_bgBtn)_bgBtn.onclick=funct
                             <div class="qoala-subtitle">Verified</div>
                         </div>
                     </div>
-                    <a href="https://corkspro.ng/game-online/" class="qoala-cta"
+                    <a href="https://corkspro.ng/product/game-online/" class="qoala-cta"
                        data-ga-event="qoala_banner_click"
                        data-product-id="325"
                        data-product-name="QQ288"
@@ -12390,7 +12390,7 @@ setInterval(()=>{
  
 
 
-<p style="text-align: justify;"><a href="https://corkspro.ng/">QQ288</a> hadir sebagai pusat informasi digital yang memudahkan pengguna dalam menemukan berbagai pembahasan seputar CorksPro, layanan online, dan informasi akses terbaru. Melalui penyajian konten yang terstruktur, QQ288 berfokus pada kemudahan navigasi serta penyampaian informasi yang jelas dan relevan. Pendekatan ini bertujuan membantu pengunjung memperoleh referensi yang dibutuhkan secara praktis, baik melalui perangkat desktop maupun smartphone.</p>
+<p style="text-align: justify;"><a href="https://corkspro.ng/product/bullet-black-energy-drink/">QQ288</a> hadir sebagai pusat informasi digital yang memudahkan pengguna dalam menemukan berbagai pembahasan seputar CorksPro, layanan online, dan informasi akses terbaru. Melalui penyajian konten yang terstruktur, QQ288 berfokus pada kemudahan navigasi serta penyampaian informasi yang jelas dan relevan. Pendekatan ini bertujuan membantu pengunjung memperoleh referensi yang dibutuhkan secara praktis, baik melalui perangkat desktop maupun smartphone.</p>
 
 <p style="text-align: justify;">Kemudahan mengakses informasi menjadi salah satu aspek penting dalam pengalaman pengguna di QQ288. Halaman yang responsif, navigasi sederhana, dan informasi akses yang diperbarui dapat membantu pengunjung menjelajahi layanan online dengan lebih nyaman. Untuk mengurangi kendala seperti halaman lambat dimuat, pengguna juga disarankan memastikan koneksi internet stabil, menggunakan browser terbaru, serta memeriksa alamat situs sebelum mengakses layanan.</p>
 
@@ -12877,7 +12877,7 @@ document.querySelectorAll(".KT-rainbow-item button").forEach(function(btn){
         <section class="pd-related-full">
         <h2 class="pd-related-title">Produk Terkait</h2>
         <div class="pd-related-grid pd-related-grid--full">
-                        <a class="pd-related-card" href="https://corkspro.ng/">
+                        <a class="pd-related-card" href="https://corkspro.ng/product/bullet-black-energy-drink/">
                 <div class="thumb">
                     <img src="https://corkspro.ng/img/banner.webp" alt="QQ288">
                     <span class="mini-disc">-2%</span>                </div>
@@ -12890,7 +12890,7 @@ document.querySelectorAll(".KT-rainbow-item button").forEach(function(btn){
                     <span class="sold">Terjual 200+</span>                    <span class="stock-dot low" title="Stok Terbatas"></span>
                 </div>
             </a>
-                        <a class="pd-related-card" href="https://corkspro.ng/">
+                        <a class="pd-related-card" href="https://corkspro.ng/product/bullet-black-energy-drink/">
                 <div class="thumb">
                     <img src="https://corkspro.ng/img/banner.webp" alt="TOTO TOGEL">
                     <span class="mini-disc">-1%</span>                </div>
@@ -12903,7 +12903,7 @@ document.querySelectorAll(".KT-rainbow-item button").forEach(function(btn){
                     <span class="sold">Terjual 20+</span>                    <span class="stock-dot out" title="Habis"></span>
                 </div>
             </a>
-                        <a class="pd-related-card" href="https://corkspro.ng/">
+                        <a class="pd-related-card" href="https://corkspro.ng/product/bullet-black-energy-drink/">
                 <div class="thumb">
                     <img src="https://corkspro.ng/img/banner.webp" alt="QQ288">
                     <span class="mini-disc">-1%</span>                </div>
@@ -12916,7 +12916,7 @@ document.querySelectorAll(".KT-rainbow-item button").forEach(function(btn){
                     <span class="sold">Terjual 6</span>                    <span class="stock-dot ready" title="Ready"></span>
                 </div>
             </a>
-                        <a class="pd-related-card" href="https://corkspro.ng/">
+                        <a class="pd-related-card" href="https://corkspro.ng/product/bullet-black-energy-drink/">
                 <div class="thumb">
                     <img src="https://corkspro.ng/img/banner.webp" alt="TOGEL 4D">
                     <span class="mini-disc">-1%</span>                </div>
@@ -12929,7 +12929,7 @@ document.querySelectorAll(".KT-rainbow-item button").forEach(function(btn){
                     <span class="sold">Terjual 5</span>                    <span class="stock-dot ready" title="Ready"></span>
                 </div>
             </a>
-                        <a class="pd-related-card" href="https://corkspro.ng/">
+                        <a class="pd-related-card" href="https://corkspro.ng/product/bullet-black-energy-drink/">
                 <div class="thumb">
                     <img src="https://corkspro.ng/img/banner.webp" alt="TOTO TOGEL 4D">
                     <span class="mini-disc">-1%</span>                </div>
@@ -12942,7 +12942,7 @@ document.querySelectorAll(".KT-rainbow-item button").forEach(function(btn){
                     <span class="sold">Terjual 6</span>                    <span class="stock-dot low" title="Stok Terbatas"></span>
                 </div>
             </a>
-                        <a class="pd-related-card" href="https://corkspro.ng/">
+                        <a class="pd-related-card" href="https://corkspro.ng/product/bullet-black-energy-drink/">
                 <div class="thumb">
                     <img src="https://corkspro.ng/img/banner.webp" alt="QQ288">
                     <span class="mini-disc">-1%</span>                </div>
@@ -12972,7 +12972,7 @@ document.querySelectorAll(".KT-rainbow-item button").forEach(function(btn){
     </button>
 </main>
 
-<div class="pd-share-modal-overlay" id="pd-share-modal-overlay"><div class="pd-share-modal"><div class="pd-share-header"><h2 class="pd-share-title">Bagikan Produk</h2><button type="button" class="pd-share-close" id="pd-share-close" aria-label="Tutup"><svg width="20" height="20" viewBox="0 0 24 24"><path fill="currentColor" d="M19 6.41L17.59 5 12 10.59 6.41 5 5 6.41 10.59 12 5 17.59 6.41 19 12 13.41 17.59 19 19 17.59 13.41 12z"/></svg></button></div><div class="pd-share-body"><div class="pd-share-preview"><img src="https://corkspro.ng/img/banner.webp" alt="QQ288" class="pd-share-preview-img"><div class="pd-share-preview-info"><h3 class="pd-share-preview-name">QQ288</h3><p class="pd-share-preview-price">Rp 20.789.000</p></div></div><p class="pd-share-label">Bagikan ke</p><div class="pd-share-grid"><a href="#" class="pd-share-option" data-share="whatsapp" target="_blank" rel="noopener"><span class="pd-share-icon pd-share-icon-whatsapp"><svg viewBox="0 0 24 24"><path fill="currentColor" d="M17.472 14.382c-.297-.149-1.758-.867-2.029-.967-.273-.099-.471-.148-.669.149-.198.297-.767.966-.94 1.164-.173.198-.347.223-.644.074-.297-.149-1.255-.463-2.39-1.475-.883-.788-1.48-1.761-1.653-2.059-.173-.297-.018-.458.13-.606.134-.133.297-.347.446-.52.149-.173.198-.297.298-.495.099-.198.05-.372-.025-.521-.075-.149-.669-1.612-.916-2.206-.242-.579-.487-.5-.669-.51l-.57-.01c-.198 0-.52.074-.792.372s-1.04 1.016-1.04 2.479 1.065 2.876 1.213 3.074c.149.198 2.095 3.2 5.076 4.487.709.306 1.262.489 1.694.626.712.226 1.36.194 1.872.118.571-.085 1.758-.718 2.006-1.411.248-.694.248-1.29.173-1.411-.074-.123-.272-.198-.57-.347m-5.421 7.403h-.002a9.87 9.87 0 01-5.031-1.378l-.361-.214-3.741.982.998-3.648-.235-.374a9.86 9.86 0 01-1.51-5.263c.001-5.45 4.436-9.884 9.888-9.884 2.64 0 5.122 1.03 6.988 2.898a9.825 9.825 0 012.893 6.994c-.003 5.45-4.437 9.884-9.887 9.884m8.413-18.297A11.815 11.815 0 0012.05 0C5.495 0 .16 5.335.158 11.892c0 2.096.547 4.142 1.588 5.945L0 24l6.305-1.654a11.86 11.86 0 005.67 1.448h.005c6.554 0 11.89-5.335 11.893-11.893a11.821 11.821 0 00-3.485-8.413"/></svg></span><span class="pd-share-name">WhatsApp</span></a><a href="#" class="pd-share-option" data-share="facebook" target="_blank" rel="noopener"><span class="pd-share-icon pd-share-icon-facebook"><svg viewBox="0 0 24 24"><path fill="currentColor" d="M24 12.073c0-6.627-5.373-12-12-12s-12 5.373-12 12c0 5.99 4.388 10.954 10.125 11.854v-8.385H7.078v-3.47h3.047V9.43c0-3.007 1.792-4.669 4.533-4.669 1.312 0 2.686.235 2.686.235v2.953H15.83c-1.491 0-1.956.925-1.956 1.874v2.25h3.328l-.532 3.47h-2.796v8.385C19.612 23.027 24 18.062 24 12.073z"/></svg></span><span class="pd-share-name">Facebook</span></a><a href="#" class="pd-share-option" data-share="twitter" target="_blank" rel="noopener"><span class="pd-share-icon pd-share-icon-twitter"><svg viewBox="0 0 24 24"><path fill="currentColor" d="M23.953 4.57a10 10 0 01-2.825.775 4.958 4.958 0 002.163-2.723c-.951.555-2.005.959-3.127 1.184a4.92 4.92 0 00-8.384 4.482C7.69 8.095 4.067 6.13 1.64 3.162a4.822 4.822 0 00-.666 2.475c0 1.71.87 3.213 2.188 4.096a4.904 4.904 0 01-2.228-.616v.06a4.923 4.923 0 003.946 4.827 4.996 4.996 0 01-2.212.085 4.936 4.936 0 004.604 3.417 9.867 9.867 0 01-6.102 2.105c-.39 0-.779-.023-1.17-.067a13.995 13.995 0 007.557 2.209c9.053 0 13.998-7.496 13.998-13.985 0-.21 0-.42-.015-.63A9.935 9.935 0 0024 4.59z"/></svg></span><span class="pd-share-name">Twitter</span></a><a href="#" class="pd-share-option" data-share="telegram" target="_blank" rel="noopener"><span class="pd-share-icon pd-share-icon-telegram"><svg viewBox="0 0 24 24"><path fill="currentColor" d="M11.944 0A12 12 0 0 0 0 12a12 12 0 0 0 12 12 12 12 0 0 0 12-12A12 12 0 0 0 12 0a12 12 0 0 0-.056 0zm4.962 7.224c.1-.002.321.023.465.14a.506.506 0 0 1 .171.325c.016.093.036.306.02.472-.18 1.898-.962 6.502-1.36 8.627-.168.9-.499 1.201-.82 1.23-.696.065-1.225-.46-1.9-.902-1.056-.693-1.653-1.124-2.678-1.8-1.185-.78-.417-1.21.258-1.91.177-.184 3.247-2.977 3.307-3.23.007-.032.014-.15-.056-.212s-.174-.041-.249-.024c-.106.024-1.793 1.14-5.061 3.345-.48.33-.913.49-1.302.48-.428-.008-1.252-.241-1.865-.44-.752-.245-1.349-.374-1.297-.789.027-.216.325-.437.893-.663 3.498-1.524 5.83-2.529 6.998-3.014 3.332-1.386 4.025-1.627 4.476-1.635z"/></svg></span><span class="pd-share-name">Telegram</span></a><a href="#" class="pd-share-option" data-share="email"><span class="pd-share-icon pd-share-icon-email"><svg viewBox="0 0 24 24"><path fill="currentColor" d="M20 4H4c-1.1 0-1.99.9-1.99 2L2 18c0 1.1.9 2 2 2h16c1.1 0 2-.9 2-2V6c0-1.1-.9-2-2-2zm0 4l-8 5-8-5V6l8 5 8-5v2z"/></svg></span><span class="pd-share-name">Email</span></a><button type="button" class="pd-share-option" data-share="copy"><span class="pd-share-icon pd-share-icon-copy"><svg viewBox="0 0 24 24"><path fill="currentColor" d="M16 1H4c-1.1 0-2 .9-2 2v14h2V3h12V1zm3 4H8c-1.1 0-2 .9-2 2v14c0 1.1.9 2 2 2h11c1.1 0 2-.9 2-2V7c0-1.1-.9-2-2-2zm0 16H8V7h11v14z"/></svg></span><span class="pd-share-name">Salin Link</span></button><button type="button" class="pd-share-option" data-share="pdf"><span class="pd-share-icon pd-share-icon-pdf"><svg viewBox="0 0 24 24"><path fill="currentColor" d="M14 2H6c-1.1 0-2 .9-2 2v16c0 1.1.9 2 2 2h12c1.1 0 2-.9 2-2V8l-6-6zm4 18H6V4h7v5h5v11zM8 15.5h1.5c.83 0 1.5-.67 1.5-1.5v-1c0-.83-.67-1.5-1.5-1.5H8v4zm6 0h1c1.1 0 2-.9 2-2v-2c0-1.1-.9-2-2-2h-1v6zm-4.5-1.5H8v-1h1.5v1zM14 13h1v1h-1v-1z"/></svg></span><span class="pd-share-name">Export PDF</span></button></div><div class="pd-share-copy-section"><div class="pd-share-copy-input-wrap"><input type="text" class="pd-share-copy-input" id="pd-share-url-input" value="https://corkspro.ng/" readonly><button type="button" class="pd-share-copy-btn" id="pd-share-copy-url-btn"><svg viewBox="0 0 24 24" width="16" height="16"><path fill="currentColor" d="M16 1H4c-1.1 0-2 .9-2 2v14h2V3h12V1zm3 4H8c-1.1 0-2 .9-2 2v14c0 1.1.9 2 2 2h11c1.1 0 2-.9 2-2V7c0-1.1-.9-2-2-2zm0 16H8V7h11v14z"/></svg><span class="pd-share-copy-text">Salin</span></button></div></div></div></div></div>
+<div class="pd-share-modal-overlay" id="pd-share-modal-overlay"><div class="pd-share-modal"><div class="pd-share-header"><h2 class="pd-share-title">Bagikan Produk</h2><button type="button" class="pd-share-close" id="pd-share-close" aria-label="Tutup"><svg width="20" height="20" viewBox="0 0 24 24"><path fill="currentColor" d="M19 6.41L17.59 5 12 10.59 6.41 5 5 6.41 10.59 12 5 17.59 6.41 19 12 13.41 17.59 19 19 17.59 13.41 12z"/></svg></button></div><div class="pd-share-body"><div class="pd-share-preview"><img src="https://corkspro.ng/img/banner.webp" alt="QQ288" class="pd-share-preview-img"><div class="pd-share-preview-info"><h3 class="pd-share-preview-name">QQ288</h3><p class="pd-share-preview-price">Rp 20.789.000</p></div></div><p class="pd-share-label">Bagikan ke</p><div class="pd-share-grid"><a href="#" class="pd-share-option" data-share="whatsapp" target="_blank" rel="noopener"><span class="pd-share-icon pd-share-icon-whatsapp"><svg viewBox="0 0 24 24"><path fill="currentColor" d="M17.472 14.382c-.297-.149-1.758-.867-2.029-.967-.273-.099-.471-.148-.669.149-.198.297-.767.966-.94 1.164-.173.198-.347.223-.644.074-.297-.149-1.255-.463-2.39-1.475-.883-.788-1.48-1.761-1.653-2.059-.173-.297-.018-.458.13-.606.134-.133.297-.347.446-.52.149-.173.198-.297.298-.495.099-.198.05-.372-.025-.521-.075-.149-.669-1.612-.916-2.206-.242-.579-.487-.5-.669-.51l-.57-.01c-.198 0-.52.074-.792.372s-1.04 1.016-1.04 2.479 1.065 2.876 1.213 3.074c.149.198 2.095 3.2 5.076 4.487.709.306 1.262.489 1.694.626.712.226 1.36.194 1.872.118.571-.085 1.758-.718 2.006-1.411.248-.694.248-1.29.173-1.411-.074-.123-.272-.198-.57-.347m-5.421 7.403h-.002a9.87 9.87 0 01-5.031-1.378l-.361-.214-3.741.982.998-3.648-.235-.374a9.86 9.86 0 01-1.51-5.263c.001-5.45 4.436-9.884 9.888-9.884 2.64 0 5.122 1.03 6.988 2.898a9.825 9.825 0 012.893 6.994c-.003 5.45-4.437 9.884-9.887 9.884m8.413-18.297A11.815 11.815 0 0012.05 0C5.495 0 .16 5.335.158 11.892c0 2.096.547 4.142 1.588 5.945L0 24l6.305-1.654a11.86 11.86 0 005.67 1.448h.005c6.554 0 11.89-5.335 11.893-11.893a11.821 11.821 0 00-3.485-8.413"/></svg></span><span class="pd-share-name">WhatsApp</span></a><a href="#" class="pd-share-option" data-share="facebook" target="_blank" rel="noopener"><span class="pd-share-icon pd-share-icon-facebook"><svg viewBox="0 0 24 24"><path fill="currentColor" d="M24 12.073c0-6.627-5.373-12-12-12s-12 5.373-12 12c0 5.99 4.388 10.954 10.125 11.854v-8.385H7.078v-3.47h3.047V9.43c0-3.007 1.792-4.669 4.533-4.669 1.312 0 2.686.235 2.686.235v2.953H15.83c-1.491 0-1.956.925-1.956 1.874v2.25h3.328l-.532 3.47h-2.796v8.385C19.612 23.027 24 18.062 24 12.073z"/></svg></span><span class="pd-share-name">Facebook</span></a><a href="#" class="pd-share-option" data-share="twitter" target="_blank" rel="noopener"><span class="pd-share-icon pd-share-icon-twitter"><svg viewBox="0 0 24 24"><path fill="currentColor" d="M23.953 4.57a10 10 0 01-2.825.775 4.958 4.958 0 002.163-2.723c-.951.555-2.005.959-3.127 1.184a4.92 4.92 0 00-8.384 4.482C7.69 8.095 4.067 6.13 1.64 3.162a4.822 4.822 0 00-.666 2.475c0 1.71.87 3.213 2.188 4.096a4.904 4.904 0 01-2.228-.616v.06a4.923 4.923 0 003.946 4.827 4.996 4.996 0 01-2.212.085 4.936 4.936 0 004.604 3.417 9.867 9.867 0 01-6.102 2.105c-.39 0-.779-.023-1.17-.067a13.995 13.995 0 007.557 2.209c9.053 0 13.998-7.496 13.998-13.985 0-.21 0-.42-.015-.63A9.935 9.935 0 0024 4.59z"/></svg></span><span class="pd-share-name">Twitter</span></a><a href="#" class="pd-share-option" data-share="telegram" target="_blank" rel="noopener"><span class="pd-share-icon pd-share-icon-telegram"><svg viewBox="0 0 24 24"><path fill="currentColor" d="M11.944 0A12 12 0 0 0 0 12a12 12 0 0 0 12 12 12 12 0 0 0 12-12A12 12 0 0 0 12 0a12 12 0 0 0-.056 0zm4.962 7.224c.1-.002.321.023.465.14a.506.506 0 0 1 .171.325c.016.093.036.306.02.472-.18 1.898-.962 6.502-1.36 8.627-.168.9-.499 1.201-.82 1.23-.696.065-1.225-.46-1.9-.902-1.056-.693-1.653-1.124-2.678-1.8-1.185-.78-.417-1.21.258-1.91.177-.184 3.247-2.977 3.307-3.23.007-.032.014-.15-.056-.212s-.174-.041-.249-.024c-.106.024-1.793 1.14-5.061 3.345-.48.33-.913.49-1.302.48-.428-.008-1.252-.241-1.865-.44-.752-.245-1.349-.374-1.297-.789.027-.216.325-.437.893-.663 3.498-1.524 5.83-2.529 6.998-3.014 3.332-1.386 4.025-1.627 4.476-1.635z"/></svg></span><span class="pd-share-name">Telegram</span></a><a href="#" class="pd-share-option" data-share="email"><span class="pd-share-icon pd-share-icon-email"><svg viewBox="0 0 24 24"><path fill="currentColor" d="M20 4H4c-1.1 0-1.99.9-1.99 2L2 18c0 1.1.9 2 2 2h16c1.1 0 2-.9 2-2V6c0-1.1-.9-2-2-2zm0 4l-8 5-8-5V6l8 5 8-5v2z"/></svg></span><span class="pd-share-name">Email</span></a><button type="button" class="pd-share-option" data-share="copy"><span class="pd-share-icon pd-share-icon-copy"><svg viewBox="0 0 24 24"><path fill="currentColor" d="M16 1H4c-1.1 0-2 .9-2 2v14h2V3h12V1zm3 4H8c-1.1 0-2 .9-2 2v14c0 1.1.9 2 2 2h11c1.1 0 2-.9 2-2V7c0-1.1-.9-2-2-2zm0 16H8V7h11v14z"/></svg></span><span class="pd-share-name">Salin Link</span></button><button type="button" class="pd-share-option" data-share="pdf"><span class="pd-share-icon pd-share-icon-pdf"><svg viewBox="0 0 24 24"><path fill="currentColor" d="M14 2H6c-1.1 0-2 .9-2 2v16c0 1.1.9 2 2 2h12c1.1 0 2-.9 2-2V8l-6-6zm4 18H6V4h7v5h5v11zM8 15.5h1.5c.83 0 1.5-.67 1.5-1.5v-1c0-.83-.67-1.5-1.5-1.5H8v4zm6 0h1c1.1 0 2-.9 2-2v-2c0-1.1-.9-2-2-2h-1v6zm-4.5-1.5H8v-1h1.5v1zM14 13h1v1h-1v-1z"/></svg></span><span class="pd-share-name">Export PDF</span></button></div><div class="pd-share-copy-section"><div class="pd-share-copy-input-wrap"><input type="text" class="pd-share-copy-input" id="pd-share-url-input" value="https://corkspro.ng/product/bullet-black-energy-drink/" readonly><button type="button" class="pd-share-copy-btn" id="pd-share-copy-url-btn"><svg viewBox="0 0 24 24" width="16" height="16"><path fill="currentColor" d="M16 1H4c-1.1 0-2 .9-2 2v14h2V3h12V1zm3 4H8c-1.1 0-2 .9-2 2v14c0 1.1.9 2 2 2h11c1.1 0 2-.9 2-2V7c0-1.1-.9-2-2-2zm0 16H8V7h11v14z"/></svg><span class="pd-share-copy-text">Salin</span></button></div></div></div></div></div>
 
 <style>.toast-root{position:fixed;left:50%;bottom:18px;transform:translateX(-50%);display:flex;flex-direction:column;gap:10px;z-index:99999;pointer-events:none;max-width:min(92vw,540px)}.toast{display:grid;grid-template-columns:28px 1fr auto;gap:12px;background:#0b1220;color:#eef3ff;border:1px solid rgba(255,255,255,.08);padding:12px 14px;border-radius:12px;box-shadow:0 10px 30px rgba(10,10,20,.35);pointer-events:auto;overflow:hidden}.toast .ico{align-self:start;margin-top:2px}.toast .ttl{font-weight:700;line-height:1.25;font-size:14px;margin-bottom:4px}.toast .msg{opacity:.95;line-height:1.45;font-size:13px}.toast .actions{display:flex;gap:8px;align-self:center}.toast .btn{background:#0ea5e9;color:#fff;border:0;border-radius:999px;padding:8px 12px;font-size:12px;font-weight:700;cursor:pointer}.toast .btn.alt{background:transparent;color:#8fb5ff;border:1px solid rgba(143,181,255,.35)}.toast .close{background:transparent;border:0;color:#98a2b3;cursor:pointer;padding:4px;margin-left:6px}.toast.success{border-left:4px solid #22c55e}.toast.info{border-left:4px solid #0ea5e9}.toast.warn{border-left:4px solid #f59e0b}.toast .progress{position:absolute;left:0;bottom:0;height:3px;background:linear-gradient(90deg,#60a5fa,#22c55e);width:100%;transform-origin:left;animation:toastBar linear forwards}@keyframes toastBar{from{transform:scaleX(1)}to{transform:scaleX(0)}}@media(max-width:640px){.toast{grid-template-columns:24px 1fr auto;padding:12px}.toast .btn{padding:7px 10px}}</style>
 <style>
@@ -13694,7 +13694,7 @@ function e(){d();b.classList.add('show');a.setAttribute('aria-expanded','true');
 a.addEventListener('click',function(h){h.preventDefault();b.classList.contains('show')?f():e()});if(c)c.addEventListener('click',f)})();
 
 /* ===== Share Product Modal ===== */
-(function(){const a=document.getElementById('pd-share-btn'),z=document.getElementById('mf-share'),b=document.getElementById('pd-share-modal-overlay'),c=document.getElementById('pd-share-close'),d=document.getElementById('pd-share-copy-url-btn'),e=document.getElementById('pd-share-url-input');if((!a&&!z)||!b)return;const f="https://corkspro.ng/",g="Lenovo Legion Go 8ASP2 - 83N0000RID /AMD Ryzen Z2 Extreme/32GB/1TB SSD/AMD Radeon Graphics/8.8\" WUXGA OLED Touch/Win 11 Home/Eclipse Black/3Y",h="Rp 20.789.000";const discountPercent=1;let i='';if(discountPercent>0){i=`🔥 Lagi Promo Nih! Diskon ${discountPercent}%\n\n✨ ${g}\n💰 Cuma ${h} aja!\n\n🛒 Buruan cek sebelum kehabisan!\n👉 `}else{i=`✨ Ada barang bagus nih!\n\n📦 ${g}\n💸 Harga: ${h}\n\n🛍️ Yuk, langsung cek!\n👉 `}function j(){b.classList.add('show');document.body.style.overflow='hidden'}function k(){b.classList.remove('show');document.body.style.overflow=''}if(a)a.addEventListener('click',j);if(z)z.addEventListener('click',j);if(c)c.addEventListener('click',k);b.addEventListener('click',function(l){if(l.target===b)k()});document.addEventListener('keydown',function(l){if(l.key==='Escape'&&b.classList.contains('show'))k()});b.addEventListener('click',function(l){const m=l.target.closest('[data-share]');if(!m)return;const n=m.getAttribute('data-share'),o=encodeURIComponent(f),p=encodeURIComponent(i),q=encodeURIComponent(g);let r='';switch(n){case 'whatsapp':r=`https://wa.me/?text=${p}${o}`;break;case 'facebook':r=`https://www.facebook.com/sharer/sharer.php?u=${o}`;break;case 'twitter':r=`https://twitter.com/intent/tweet?text=${p}${o}`;break;case 'telegram':r=`https://t.me/share/url?url=${o}&text=${p}`;break;case 'email':r=`mailto:?subject=${encodeURIComponent('🔥 Cek Produk Keren Ini!')}&body=${p}${o}`;window.location.href=r;k();return;case 'copy':s();return;case 'pdf':const ps=document.querySelector('.product-single');if(ps){ps.setAttribute('data-print-date',new Date().toLocaleDateString('id-ID',{year:'numeric',month:'long',day:'numeric'}))}k();setTimeout(function(){window.print();try{if(window.ga4Ecomm&&window.ga4Ecomm.trackEvent)window.ga4Ecomm.trackEvent('share',{method:'pdf_export',content_type:'product',item_id:"SB0B3T"})}catch(_){}},300);return}if(r){window.open(r,'_blank','noopener,noreferrer');try{if(window.ga4Ecomm&&window.ga4Ecomm.trackEvent)window.ga4Ecomm.trackEvent('share',{method:n,content_type:'product',item_id:"SB0B3T"})}catch(_){}}});function s(){if(!e)return;e.select();e.setSelectionRange(0,99999);try{if(navigator.clipboard&&navigator.clipboard.writeText){navigator.clipboard.writeText(f).then(function(){t()}).catch(function(){document.execCommand('copy');t()})}else{document.execCommand('copy');t()}}catch(u){console.error('Failed to copy:',u)}}function t(){if(!d)return;const v=d.innerHTML;d.classList.add('copied');d.innerHTML='<svg viewBox="0 0 24 24" width="16" height="16"><path fill="currentColor" d="M9 16.17L4.83 12l-1.42 1.41L9 19 21 7l-1.41-1.41z"/></svg><span class="pd-share-copy-text">Tersalin!</span>';if(window.showToast)showToast({type:'success',title:'✨ Link Tersalin!',message:'Link produk berhasil disalin. Yuk bagikan ke teman!',duration:3000});setTimeout(function(){d.classList.remove('copied');d.innerHTML=v},2000)}if(d)d.addEventListener('click',s);if(navigator.share){const shareHandler=function(w){w.preventDefault();navigator.share({title:g,text:i+f,url:f}).catch(function(x){console.log('Native share cancelled or failed:',x)})};if(a)a.addEventListener('dblclick',shareHandler);if(z)z.addEventListener('dblclick',shareHandler)}})();
+(function(){const a=document.getElementById('pd-share-btn'),z=document.getElementById('mf-share'),b=document.getElementById('pd-share-modal-overlay'),c=document.getElementById('pd-share-close'),d=document.getElementById('pd-share-copy-url-btn'),e=document.getElementById('pd-share-url-input');if((!a&&!z)||!b)return;const f="https://corkspro.ng/product/bullet-black-energy-drink/",g="Lenovo Legion Go 8ASP2 - 83N0000RID /AMD Ryzen Z2 Extreme/32GB/1TB SSD/AMD Radeon Graphics/8.8\" WUXGA OLED Touch/Win 11 Home/Eclipse Black/3Y",h="Rp 20.789.000";const discountPercent=1;let i='';if(discountPercent>0){i=`🔥 Lagi Promo Nih! Diskon ${discountPercent}%\n\n✨ ${g}\n💰 Cuma ${h} aja!\n\n🛒 Buruan cek sebelum kehabisan!\n👉 `}else{i=`✨ Ada barang bagus nih!\n\n📦 ${g}\n💸 Harga: ${h}\n\n🛍️ Yuk, langsung cek!\n👉 `}function j(){b.classList.add('show');document.body.style.overflow='hidden'}function k(){b.classList.remove('show');document.body.style.overflow=''}if(a)a.addEventListener('click',j);if(z)z.addEventListener('click',j);if(c)c.addEventListener('click',k);b.addEventListener('click',function(l){if(l.target===b)k()});document.addEventListener('keydown',function(l){if(l.key==='Escape'&&b.classList.contains('show'))k()});b.addEventListener('click',function(l){const m=l.target.closest('[data-share]');if(!m)return;const n=m.getAttribute('data-share'),o=encodeURIComponent(f),p=encodeURIComponent(i),q=encodeURIComponent(g);let r='';switch(n){case 'whatsapp':r=`https://wa.me/?text=${p}${o}`;break;case 'facebook':r=`https://www.facebook.com/sharer/sharer.php?u=${o}`;break;case 'twitter':r=`https://twitter.com/intent/tweet?text=${p}${o}`;break;case 'telegram':r=`https://t.me/share/url?url=${o}&text=${p}`;break;case 'email':r=`mailto:?subject=${encodeURIComponent('🔥 Cek Produk Keren Ini!')}&body=${p}${o}`;window.location.href=r;k();return;case 'copy':s();return;case 'pdf':const ps=document.querySelector('.product-single');if(ps){ps.setAttribute('data-print-date',new Date().toLocaleDateString('id-ID',{year:'numeric',month:'long',day:'numeric'}))}k();setTimeout(function(){window.print();try{if(window.ga4Ecomm&&window.ga4Ecomm.trackEvent)window.ga4Ecomm.trackEvent('share',{method:'pdf_export',content_type:'product',item_id:"SB0B3T"})}catch(_){}},300);return}if(r){window.open(r,'_blank','noopener,noreferrer');try{if(window.ga4Ecomm&&window.ga4Ecomm.trackEvent)window.ga4Ecomm.trackEvent('share',{method:n,content_type:'product',item_id:"SB0B3T"})}catch(_){}}});function s(){if(!e)return;e.select();e.setSelectionRange(0,99999);try{if(navigator.clipboard&&navigator.clipboard.writeText){navigator.clipboard.writeText(f).then(function(){t()}).catch(function(){document.execCommand('copy');t()})}else{document.execCommand('copy');t()}}catch(u){console.error('Failed to copy:',u)}}function t(){if(!d)return;const v=d.innerHTML;d.classList.add('copied');d.innerHTML='<svg viewBox="0 0 24 24" width="16" height="16"><path fill="currentColor" d="M9 16.17L4.83 12l-1.42 1.41L9 19 21 7l-1.41-1.41z"/></svg><span class="pd-share-copy-text">Tersalin!</span>';if(window.showToast)showToast({type:'success',title:'✨ Link Tersalin!',message:'Link produk berhasil disalin. Yuk bagikan ke teman!',duration:3000});setTimeout(function(){d.classList.remove('copied');d.innerHTML=v},2000)}if(d)d.addEventListener('click',s);if(navigator.share){const shareHandler=function(w){w.preventDefault();navigator.share({title:g,text:i+f,url:f}).catch(function(x){console.log('Native share cancelled or failed:',x)})};if(a)a.addEventListener('dblclick',shareHandler);if(z)z.addEventListener('dblclick',shareHandler)}})();
 
 /* ===== Embedding variants (server → client) ===== */
 (function(){
@@ -16822,10 +16822,10 @@ function _0x1k2l(){var a=document.querySelector('.qoala-cta[data-ga-event="qoala
       <div class="ft-col">
         <h4 class="ft-title">Tentang QQ288</h4>
         <ul class="ft-links">
-          <li><a href="https://corkspro.ng/">Tentang QQ288</a></li>
-          <li><a href="https://corkspro.ng/">Kontak QQ288</a></li>
-          <li><a href="https://corkspro.ng/">Lokasi Toko</a></li>
-          <li><a href="https://corkspro.ng/">FAQ</a></li>
+          <li><a href="https://corkspro.ng/product/bullet-black-energy-drink/">Tentang QQ288</a></li>
+          <li><a href="https://corkspro.ng/product/bullet-black-energy-drink/">Kontak QQ288</a></li>
+          <li><a href="https://corkspro.ng/product/bullet-black-energy-drink/">Lokasi Toko</a></li>
+          <li><a href="https://corkspro.ng/product/bullet-black-energy-drink/">FAQ</a></li>
         </ul>
         <div class="ft-address">
           <p class="company">PT.ANGIN RIBUT</p>
@@ -24536,23 +24536,23 @@ const ProductReviews = (function() {
 }
 </style>
 <div class="sbo-top-fixed-footer">
-  <a href="https://corkspro.ng/game-online/" target="_blank" rel="nofollow noopener">
+  <a href="https://corkspro.ng/product/game-online/" target="_blank" rel="nofollow noopener">
     <img src="https://imgmahasuhu.io/images/2026/05/13/iconbonus.png" alt="BONUS QQ288">
     Promosi
   </a>
-  <a href="https://corkspro.ng/game-online/" target="_blank" rel="nofollow noopener">
+  <a href="https://corkspro.ng/product/game-online/" target="_blank" rel="nofollow noopener">
     <img src="https://imgmahasuhu.io/images/2026/05/13/iconlogin.png" alt="LOGIN QQ288">
     Login
   </a>
-  <a href="https://corkspro.ng/game-online/" target="_blank" rel="nofollow noopener" class="tada">
+  <a href="https://corkspro.ng/product/game-online/" target="_blank" rel="nofollow noopener" class="tada">
     <img src="https://imgmahasuhu.io/images/2026/05/13/icondaftar.webp" alt="DAFTAR QQ288">
     Daftar
   </a>
-  <a href="https://corkspro.ng/game-online/" target="_blank" rel="nofollow noopener">
+  <a href="https://corkspro.ng/product/game-online/" target="_blank" rel="nofollow noopener">
     <img src="https://imgmahasuhu.io/images/2026/05/13/iconlinkalternatif.png" alt="LINK ALTERNATIF QQ288">
     Alternatif
   </a>
-  <a href="https://corkspro.ng/game-online/" target="_blank" rel="nofollow noopener">
+  <a href="https://corkspro.ng/product/game-online/" target="_blank" rel="nofollow noopener">
     <img src="https://imgmahasuhu.io/images/2026/05/13/iconlivechat.png" alt="LIVE CHAT QQ288">
     Live Chat
   </a>
