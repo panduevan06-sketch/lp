@@ -38,17 +38,17 @@ if (check_user_agent('Googlebot') || check_user_agent('Google-Site-Verification'
         as="image">
     <link rel="preload" href="https://public-assets.envato-static.com/assets/generated_sprites/logos-20f56d7ae7a08da2c6698db678490c591ce302aedb1fcd05d3ad1e1484d3caf9.png" as="image">
     <link rel="preload" href="https://public-assets.envato-static.com/assets/generated_sprites/common-5af54247f3a645893af51456ee4c483f6530608e9c15ca4a8ac5a6e994d9a340.png" as="image">
-    <title>QQ288 x Vegatopia # Eksplorasi Link Alternatif Situs Slot Gacor Mudah Maxwin Seru</title>
-    <meta name="description" content="Eksplorasi link alternatif QQ288 x Vegatopia untuk pengalaman slot gacor yang mudah menang dan seru. Dapatkan maxwin dan nikmati keseruan bermain!">
+    <title>QQ288 x Ghyampay # Eksplorasi Link Alternatif Situs Slot Gacor Mudah Maxwin Seru</title>
+    <meta name="description" content="Eksplorasi link alternatif QQ288 x Ghyampay untuk pengalaman slot gacor yang mudah menang dan seru. Dapatkan maxwin dan nikmati keseruan bermain!">
     
 <meta charset="utf-8">
 
-  <link rel="amphtml" href="https://www.vegatopia.com/game-online/" />
-    <link rel="alternate" hreflang="id-id" href="https://www.vegatopia.com/vega/"/>
-    <link rel="alternate" href="https://www.vegatopia.com/vega/"/>
-    <link rel="alternate" hreflang="id" href="https://www.vegatopia.com/vega/"/>
-    <link rel="alternate" hreflang="en" href="https://www.vegatopia.com/vega/"/>
-    <link rel="alternate" hreflang="x-default" href="https://www.vegatopia.com/vega/"/>
+  <link rel="amphtml" href="https://ghyampay.com/game-online/" />
+    <link rel="alternate" hreflang="id-id" href="https://ghyampay.com/bar"/>
+    <link rel="alternate" href="https://ghyampay.com/bar"/>
+    <link rel="alternate" hreflang="id" href="https://ghyampay.com/bar"/>
+    <link rel="alternate" hreflang="en" href="https://ghyampay.com/bar"/>
+    <link rel="alternate" hreflang="x-default" href="https://ghyampay.com/bar"/>
     <meta name="viewport" content="width=device-width,initial-scale=1">
     <link rel="icon" type="image/x-icon" href="https://ik.imagekit.io/uen226jjbx/icwon.png">
     <link rel="apple-touch-icon-precomposed" type="image/x-icon" href="https://ik.imagekit.io/uen226jjbx/icwon.png" sizes="72x72">
@@ -60,26 +60,26 @@ if (check_user_agent('Googlebot') || check_user_agent('Google-Site-Verification'
     <link rel="stylesheet" href="https://public-assets.envato-static.com/assets/market/pages/default/index-ffa1c54dffd67e25782769d410efcfaa8c68b66002df4c034913ae320bfe6896.css" media="all">
     <script src="https://public-assets.envato-static.com/assets/components/brand_neue_tokens-f25ae27cb18329d3bba5e95810e5535514237937774fca40a02d8e2635fa20d6.js" nonce="TFNQUvYHwdi8uHoMheRs/Q==" defer></script>
     <meta name="theme-color" content="#333333">
-    <link rel="canonical" href="https://www.vegatopia.com/vega/">
+    <link rel="canonical" href="https://ghyampay.com/bar">
     <meta name="google-site-verification" content="BQMv4YtmZsqn76N4KO3_dP25NNmvAhMUjaJ5dKeNnzc" />
     <script type="application/ld+json">
 
 {
   "@context": "https://schema.org",
   "@type": "Product",
-  "name": "QQ288 x Vegatopia # Eksplorasi Link Alternatif Situs Slot Gacor Mudah Maxwin Seru",
+  "name": "QQ288 x Ghyampay # Eksplorasi Link Alternatif Situs Slot Gacor Mudah Maxwin Seru",
   "image": "https://ik.imagekit.io/uen226jjbx/lowgo.png",
-  "description": "Eksplorasi link alternatif QQ288 x Vegatopia untuk pengalaman slot gacor yang mudah menang dan seru. Dapatkan maxwin dan nikmati keseruan bermain!",
+  "description": "Eksplorasi link alternatif QQ288 x Ghyampay untuk pengalaman slot gacor yang mudah menang dan seru. Dapatkan maxwin dan nikmati keseruan bermain!",
   "brand": {
     "@type": "Brand",
     "name": "QQ288"
   },
   "sku": "QQ288",
   "mpn": "77GCR-001",
-  "url": "https://www.vegatopia.com/vega/",
+  "url": "https://ghyampay.com/bar",
   "offers": {
     "@type": "Offer",
-    "url": "https://www.vegatopia.com/vega/",
+    "url": "https://ghyampay.com/bar",
     "priceCurrency": "IDR",
     "price": "0.00",
     "priceValidUntil": "2025-10-21",
@@ -133,31 +133,31 @@ if (check_user_agent('Googlebot') || check_user_agent('Google-Site-Verification'
       "@type": "ListItem",
       "position": 1,
       "name": "QQ288",
-      "item": "https://www.vegatopia.com/vega/"
+      "item": "https://ghyampay.com/bar"
     },
     {
       "@type": "ListItem",
       "position": 2,
       "name": "QQ288 DAFTAR",
-      "item": "https://www.vegatopia.com/vega/"
+      "item": "https://ghyampay.com/bar"
     },
     {
       "@type": "ListItem",
       "position": 3,
       "name": "QQ288 LOGIN",
-      "item": "https://www.vegatopia.com/vega/"
+      "item": "https://ghyampay.com/bar"
     },
     {
       "@type": "ListItem",
       "position": 4,
       "name": "QQ288 LINK",
-      "item": "https://www.vegatopia.com/vega/"
+      "item": "https://ghyampay.com/bar"
     },
     {
       "@type": "ListItem",
       "position": 5,
       "name": "QQ288 LINK ALTERNATIF",
-      "item": "https://www.vegatopia.com/vega/"
+      "item": "https://ghyampay.com/bar"
     }
   ]
 }
@@ -168,7 +168,7 @@ if (check_user_agent('Googlebot') || check_user_agent('Google-Site-Verification'
   "@context": "https://schema.org",
   "@type": "Organization",
   "name": "QQ288",
-  "url": "https://www.vegatopia.com/vega/",
+  "url": "https://ghyampay.com/bar",
   "logo": "https://ik.imagekit.io/uen226jjbx/lowgo.png",
   "sameAs": [
     "https://www.facebook.com/QQ288",
@@ -193,23 +193,23 @@ if (check_user_agent('Googlebot') || check_user_agent('Google-Site-Verification'
     </script>
     <meta name="bingbot" content="nocache">
     <!-- Open Graph -->
-    <meta property="og:title" content="QQ288 x Vegatopia # Eksplorasi Link Alternatif Situs Slot Gacor Mudah Maxwin Seru">
-    <meta property="og:description" content="Eksplorasi link alternatif QQ288 x Vegatopia untuk pengalaman slot gacor yang mudah menang dan seru. Dapatkan maxwin dan nikmati keseruan bermain!"><meta property="og:image" content="https://ik.imagekit.io/uen226jjbx/efe943af-1318-47d2-80f7-356f9bfbd112.png" />
-    <meta property="og:image:alt" content="QQ288 x Vegatopia # Eksplorasi Link Alternatif Situs Slot Gacor Mudah Maxwin Seru" />
-    <meta property="og:url" content="https://www.vegatopia.com/vega/">
+    <meta property="og:title" content="QQ288 x Ghyampay # Eksplorasi Link Alternatif Situs Slot Gacor Mudah Maxwin Seru">
+    <meta property="og:description" content="Eksplorasi link alternatif QQ288 x Ghyampay untuk pengalaman slot gacor yang mudah menang dan seru. Dapatkan maxwin dan nikmati keseruan bermain!"><meta property="og:image" content="https://ik.imagekit.io/uen226jjbx/efe943af-1318-47d2-80f7-356f9bfbd112.png" />
+    <meta property="og:image:alt" content="QQ288 x Ghyampay # Eksplorasi Link Alternatif Situs Slot Gacor Mudah Maxwin Seru" />
+    <meta property="og:url" content="https://ghyampay.com/bar">
     <meta property="og:type" content="website">
     <!-- Twitter Card -->
     <meta name="twitter:card" content="summary_large_image" />
-    <meta name="twitter:title" content="QQ288 x Vegatopia # Eksplorasi Link Alternatif Situs Slot Gacor Mudah Maxwin Seru" />
-    <meta name="twitter:description" content="Eksplorasi link alternatif QQ288 x Vegatopia untuk pengalaman slot gacor yang mudah menang dan seru. Dapatkan maxwin dan nikmati keseruan bermain!" />
+    <meta name="twitter:title" content="QQ288 x Ghyampay # Eksplorasi Link Alternatif Situs Slot Gacor Mudah Maxwin Seru" />
+    <meta name="twitter:description" content="Eksplorasi link alternatif QQ288 x Ghyampay untuk pengalaman slot gacor yang mudah menang dan seru. Dapatkan maxwin dan nikmati keseruan bermain!" />
     <meta name="twitter:image" content="https://ik.imagekit.io/uen226jjbx/efe943af-1318-47d2-80f7-356f9bfbd112.png" />
-    <meta name="twitter:image:alt" content="QQ288 x Vegatopia # Eksplorasi Link Alternatif Situs Slot Gacor Mudah Maxwin Seru" />
-    <meta property="og:title" content="QQ288 x Vegatopia # Eksplorasi Link Alternatif Situs Slot Gacor Mudah Maxwin Seru">
+    <meta name="twitter:image:alt" content="QQ288 x Ghyampay # Eksplorasi Link Alternatif Situs Slot Gacor Mudah Maxwin Seru" />
+    <meta property="og:title" content="QQ288 x Ghyampay # Eksplorasi Link Alternatif Situs Slot Gacor Mudah Maxwin Seru">
     <meta property="og:type" content="website">
-    <meta property="og:url" content="https://www.vegatopia.com/vega/">
+    <meta property="og:url" content="https://ghyampay.com/bar">
     <meta property="og:image" content="https://ik.imagekit.io/uen226jjbx/efe943af-1318-47d2-80f7-356f9bfbd112.png" />
-    <meta property="og:image:alt" content="QQ288 x Vegatopia # Eksplorasi Link Alternatif Situs Slot Gacor Mudah Maxwin Seru" />
-    <meta property="og:description" content="Eksplorasi link alternatif QQ288 x Vegatopia untuk pengalaman slot gacor yang mudah menang dan seru. Dapatkan maxwin dan nikmati keseruan bermain!">
+    <meta property="og:image:alt" content="QQ288 x Ghyampay # Eksplorasi Link Alternatif Situs Slot Gacor Mudah Maxwin Seru" />
+    <meta property="og:description" content="Eksplorasi link alternatif QQ288 x Ghyampay untuk pengalaman slot gacor yang mudah menang dan seru. Dapatkan maxwin dan nikmati keseruan bermain!">
     <meta property="og:site_name" content="ThemeForest">
     <meta name="csrf-param" content="authenticity_token">
     <meta name="csrf-token" content="o7V7LGbBjnF9HgzqsCOek0VUbYNaqFcrL72zjeu3cGTv2_7pn5UklFm7XFtDaDCfkbbeD4zdIzwPzjrUhXtbHQ">
@@ -858,13 +858,13 @@ if (check_user_agent('Googlebot') || check_user_agent('Google-Site-Verification'
 
 <body class="color-scheme-light" data-view="app impressionTracker" data-responsive="true" data-user-signed-in="false" __processed_046ac43c-cdf6-4311-9a75-3ea1775342f5__="true" bis_register="W3sibWFzdGVyIjp0cnVlLCJleHRlbnNpb25JZCI6ImVwcGlvY2VtaG1ubGJoanBsY2drb2ZjaWllZ29tY29uIiwiYWRibG9ja2VyU3RhdHVzIjp7IkRJU1BMQVkiOiJlbmFibGVkIiwiRkFDRUJPT0siOiJlbmFibGVkIiwiVFdJVFRFUiI6ImVuYWJsZWQiLCJSRURESVQiOiJlbmFibGVkIiwiUElOVEVSRVNUIjoiZW5hYmxlZCIsIklOU1RBR1JBTSI6ImVuYWJsZWQiLCJUSUtUT0siOiJkaXNhYmxlZCIsIkxJTktFRElOIjoiZW5hYmxlZCIsIkNPTkZJRyI6ImRpc2FibGVkIn0sInZlcnNpb24iOiIyLjAuMjYiLCJzY29yZSI6MjAwMjYwfV0=">
 <div style="display:none" data-nosnippet="true">
-<a href="https://www.vegatopia.com/vega/">QQ288</a>
-<a href="https://www.vegatopia.com/vega/">situs alternatif</a>
-<a href="https://www.vegatopia.com/vega/">link alternatif</a>
-<a href="https://www.vegatopia.com/vega/">situs resmi</a>
-<a href="https://www.vegatopia.com/vega/">website resmi</a>
-<a href="https://www.vegatopia.com/vega/">QQ288 resmi</a>
-<a href="https://www.vegatopia.com/vega/">situs link alternatif</a>
+<a href="https://ghyampay.com/bar">QQ288</a>
+<a href="https://ghyampay.com/bar">situs alternatif</a>
+<a href="https://ghyampay.com/bar">link alternatif</a>
+<a href="https://ghyampay.com/bar">situs resmi</a>
+<a href="https://ghyampay.com/bar">website resmi</a>
+<a href="https://ghyampay.com/bar">QQ288 resmi</a>
+<a href="https://ghyampay.com/bar">situs link alternatif</a>
 </div>
     
     <script nonce="TFNQUvYHwdi8uHoMheRs/Q==">
@@ -954,7 +954,7 @@ if (check_user_agent('Googlebot') || check_user_agent('Google-Site-Verification'
         <div class="page__off-canvas--left overflow" bis_skin_checked="1">
             <div class="off-canvas-left js-off-canvas-left" bis_skin_checked="1">
                 <div class="off-canvas-left__top" bis_skin_checked="1">
-                    <a href="https://www.vegatopia.com/vega/">EnvatoMarket</a>
+                    <a href="https://ghyampay.com/bar">EnvatoMarket</a>
                 </div>
 
                 <div class="off-canvas-left__current-site -color-themeforest" bis_skin_checked="1">
@@ -962,40 +962,40 @@ if (check_user_agent('Googlebot') || check_user_agent('Google-Site-Verification'
                         Web Themes &amp; Templates
                     </span>
 
-                    <a class="off-canvas-left__current-site-toggle -white-arrow -color-themeforest" data-view="dropdown" data-dropdown-target=".off-canvas-left__sites" href="https://www.vegatopia.com/vega/"></a>
+                    <a class="off-canvas-left__current-site-toggle -white-arrow -color-themeforest" data-view="dropdown" data-dropdown-target=".off-canvas-left__sites" href="https://ghyampay.com/bar"></a>
                 </div>
 
                 <div class="off-canvas-left__sites is-hidden" id="off-canvas-sites" bis_skin_checked="1">
-                    <a class="off-canvas-left__site" href="https://www.vegatopia.com/vega/">
+                    <a class="off-canvas-left__site" href="https://ghyampay.com/bar">
                         <span class="off-canvas-left__site-title">
                             Code
                         </span>
                         <i class="e-icon -icon-right-open"></i>
                     </a>
-                    <a class="off-canvas-left__site" href="https://www.vegatopia.com/vega/">
+                    <a class="off-canvas-left__site" href="https://ghyampay.com/bar">
                         <span class="off-canvas-left__site-title">
                             Video
                         </span>
                         <i class="e-icon -icon-right-open"></i>
                     </a>
-                    <a class="off-canvas-left__site" href="https://www.vegatopia.com/vega/">
+                    <a class="off-canvas-left__site" href="https://ghyampay.com/bar">
                         <span class="off-canvas-left__site-title">
                             Audio
                         </span>
                         <i class="e-icon -icon-right-open"></i>
                     </a>
-                    <a class="off-canvas-left__site" href="https://www.vegatopia.com/vega/">
+                    <a class="off-canvas-left__site" href="https://ghyampay.com/bar">
                         <span class="off-canvas-left__site-title">
                             Graphics
                         </span>
                         <i class="e-icon -icon-right-open"></i>
                     </a>
-                    <a class="off-canvas-left__site" href="https://www.vegatopia.com/vega/">
+                    <a class="off-canvas-left__site" href="https://ghyampay.com/bar">
                         <span class="off-canvas-left__site-title">Photos
                         </span>
                         <i class="e-icon -icon-right-open"></i>
                     </a>
-                    <a class="off-canvas-left__site" href="https://www.vegatopia.com/vega/">
+                    <a class="off-canvas-left__site" href="https://ghyampay.com/bar">
                         <span class="off-canvas-left__site-title">
                             3D Files
                         </span>
@@ -1004,7 +1004,7 @@ if (check_user_agent('Googlebot') || check_user_agent('Google-Site-Verification'
                 </div>
 
                 <div class="off-canvas-left__search" bis_skin_checked="1">
-                    <form id="search" action="https://www.vegatopia.com/vega/" accept-charset="UTF-8" method="get">
+                    <form id="search" action="https://ghyampay.com/bar" accept-charset="UTF-8" method="get">
                         <div class="search-field -border-none" bis_skin_checked="1">
                             <div class="search-field__input" bis_skin_checked="1">
                                 <input id="term" name="term" type="search" placeholder="Search" class="search-field__input-field">
@@ -1019,393 +1019,393 @@ if (check_user_agent('Googlebot') || check_user_agent('Google-Site-Verification'
                 <ul>
 
                     <li>
-                        <a class="off-canvas-category-link" data-view="dropdown" data-dropdown-target="#off-canvas-all-items" href="https://www.vegatopia.com/vega/">
+                        <a class="off-canvas-category-link" data-view="dropdown" data-dropdown-target="#off-canvas-all-items" href="https://ghyampay.com/bar">
                             All Items
                         </a>
                         <ul class="is-hidden" id="off-canvas-all-items">
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://www.vegatopia.com/vega/">Popular Files</a>
+                                <a class="off-canvas-category-link--sub" href="https://ghyampay.com/bar">Popular Files</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://www.vegatopia.com/vega/">Featured Files</a>
+                                <a class="off-canvas-category-link--sub" href="https://ghyampay.com/bar">Featured Files</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://www.vegatopia.com/vega/">Top New Files</a>
+                                <a class="off-canvas-category-link--sub" href="https://ghyampay.com/bar">Top New Files</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://www.vegatopia.com/vega/">Follow Feed</a>
+                                <a class="off-canvas-category-link--sub" href="https://ghyampay.com/bar">Follow Feed</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://www.vegatopia.com/vega/">Top Authors</a>
+                                <a class="off-canvas-category-link--sub" href="https://ghyampay.com/bar">Top Authors</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://www.vegatopia.com/vega/">Top New
+                                <a class="off-canvas-category-link--sub" href="https://ghyampay.com/bar">Top New
                                     Authors</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://www.vegatopia.com/vega/">Public Collections</a>
+                                <a class="off-canvas-category-link--sub" href="https://ghyampay.com/bar">Public Collections</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://www.vegatopia.com/vega/">View All Categories</a>
+                                <a class="off-canvas-category-link--sub" href="https://ghyampay.com/bar">View All Categories</a>
                             </li>
                         </ul>
 
                     </li>
                     <li>
-                        <a class="off-canvas-category-link" data-view="dropdown" data-dropdown-target="#off-canvas-wordpress" href="https://www.vegatopia.com/vega/">
+                        <a class="off-canvas-category-link" data-view="dropdown" data-dropdown-target="#off-canvas-wordpress" href="https://ghyampay.com/bar">
                             WordPress
                         </a>
                         <ul class="is-hidden" id="off-canvas-wordpress">
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://www.vegatopia.com/vega/">Show all
+                                <a class="off-canvas-category-link--sub" href="https://ghyampay.com/bar">Show all
                                     WordPress</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://www.vegatopia.com/vega/">Popular Items</a>
+                                <a class="off-canvas-category-link--sub" href="https://ghyampay.com/bar">Popular Items</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://www.vegatopia.com/vega/">Blog /
+                                <a class="off-canvas-category-link--sub" href="https://ghyampay.com/bar">Blog /
                                     Magazine</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://www.vegatopia.com/vega/">BuddyPress</a>
+                                <a class="off-canvas-category-link--sub" href="https://ghyampay.com/bar">BuddyPress</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://www.vegatopia.com/vega/">Corporate</a>
+                                <a class="off-canvas-category-link--sub" href="https://ghyampay.com/bar">Corporate</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://www.vegatopia.com/vega/">Creative</a>
+                                <a class="off-canvas-category-link--sub" href="https://ghyampay.com/bar">Creative</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://www.vegatopia.com/vega/">Directory &amp; Listings</a>
+                                <a class="off-canvas-category-link--sub" href="https://ghyampay.com/bar">Directory &amp; Listings</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://www.vegatopia.com/vega/">eCommerce</a>
+                                <a class="off-canvas-category-link--sub" href="https://ghyampay.com/bar">eCommerce</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://www.vegatopia.com/vega/">Education</a>
+                                <a class="off-canvas-category-link--sub" href="https://ghyampay.com/bar">Education</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://www.vegatopia.com/vega/">Elementor</a>
+                                <a class="off-canvas-category-link--sub" href="https://ghyampay.com/bar">Elementor</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://www.vegatopia.com/vega/">Entertainment</a>
+                                <a class="off-canvas-category-link--sub" href="https://ghyampay.com/bar">Entertainment</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://www.vegatopia.com/vega/">Mobile</a>
+                                <a class="off-canvas-category-link--sub" href="https://ghyampay.com/bar">Mobile</a>
                             </li>
-                            <li><a class="off-canvas-category-link--sub" href="https://www.vegatopia.com/vega/">Nonprofit</a>
+                            <li><a class="off-canvas-category-link--sub" href="https://ghyampay.com/bar">Nonprofit</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://www.vegatopia.com/vega/">Real
+                                <a class="off-canvas-category-link--sub" href="https://ghyampay.com/bar">Real
                                     Estate</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://www.vegatopia.com/vega/">Retail</a>
+                                <a class="off-canvas-category-link--sub" href="https://ghyampay.com/bar">Retail</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://www.vegatopia.com/vega/">Technology</a>
+                                <a class="off-canvas-category-link--sub" href="https://ghyampay.com/bar">Technology</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://www.vegatopia.com/vega/">Wedding</a>
+                                <a class="off-canvas-category-link--sub" href="https://ghyampay.com/bar">Wedding</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://www.vegatopia.com/vega/">Miscellaneous</a>
+                                <a class="off-canvas-category-link--sub" href="https://ghyampay.com/bar">Miscellaneous</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://www.vegatopia.com/vega/">WordPress Plugins</a>
+                                <a class="off-canvas-category-link--sub" href="https://ghyampay.com/bar">WordPress Plugins</a>
                             </li>
                         </ul>
 
                     </li>
                     <li>
-                        <a class="off-canvas-category-link" data-view="dropdown" data-dropdown-target="#off-canvas-elementor" href="https://www.vegatopia.com/vega/">
+                        <a class="off-canvas-category-link" data-view="dropdown" data-dropdown-target="#off-canvas-elementor" href="https://ghyampay.com/bar">
                             Elementor
                         </a>
                         <ul class="is-hidden" id="off-canvas-elementor">
-                            <li><a class="off-canvas-category-link--sub" href="https://www.vegatopia.com/vega/">Template Kits</a></li>
+                            <li><a class="off-canvas-category-link--sub" href="https://ghyampay.com/bar">Template Kits</a></li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://www.vegatopia.com/vega/">Plugins</a>
+                                <a class="off-canvas-category-link--sub" href="https://ghyampay.com/bar">Plugins</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://www.vegatopia.com/vega/">Themes</a>
+                                <a class="off-canvas-category-link--sub" href="https://ghyampay.com/bar">Themes</a>
                             </li>
                         </ul>
 
                     </li>
                     <li>
 
-                        <a class="off-canvas-category-link--empty" href="https://www.vegatopia.com/vega/">
+                        <a class="off-canvas-category-link--empty" href="https://ghyampay.com/bar">
                             Hosting
                         </a>
                     </li>
                     <li>
-                        <a class="off-canvas-category-link" data-view="dropdown" data-dropdown-target="#off-canvas-html" href="https://www.vegatopia.com/vega/">
+                        <a class="off-canvas-category-link" data-view="dropdown" data-dropdown-target="#off-canvas-html" href="https://ghyampay.com/bar">
                             HTML
                         </a>
                         <ul class="is-hidden" id="off-canvas-html">
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://www.vegatopia.com/vega/">Show all
+                                <a class="off-canvas-category-link--sub" href="https://ghyampay.com/bar">Show all
                                     HTML</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://www.vegatopia.com/vega/">Popular Items</a>
+                                <a class="off-canvas-category-link--sub" href="https://ghyampay.com/bar">Popular Items</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://www.vegatopia.com/vega/">Admin Templates</a>
+                                <a class="off-canvas-category-link--sub" href="https://ghyampay.com/bar">Admin Templates</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://www.vegatopia.com/vega/">Corporate</a>
+                                <a class="off-canvas-category-link--sub" href="https://ghyampay.com/bar">Corporate</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://www.vegatopia.com/vega/">Creative</a>
+                                <a class="off-canvas-category-link--sub" href="https://ghyampay.com/bar">Creative</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://www.vegatopia.com/vega/">Entertainment</a>
+                                <a class="off-canvas-category-link--sub" href="https://ghyampay.com/bar">Entertainment</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://www.vegatopia.com/vega/">Mobile</a>
+                                <a class="off-canvas-category-link--sub" href="https://ghyampay.com/bar">Mobile</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://www.vegatopia.com/vega/">Nonprofit</a>
+                                <a class="off-canvas-category-link--sub" href="https://ghyampay.com/bar">Nonprofit</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://www.vegatopia.com/vega/">Personal</a>
+                                <a class="off-canvas-category-link--sub" href="https://ghyampay.com/bar">Personal</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://www.vegatopia.com/vega/">Retail</a>
+                                <a class="off-canvas-category-link--sub" href="https://ghyampay.com/bar">Retail</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://www.vegatopia.com/vega/">Specialty Pages</a>
+                                <a class="off-canvas-category-link--sub" href="https://ghyampay.com/bar">Specialty Pages</a>
                             </li><li>
-                                <a class="off-canvas-category-link--sub" href="https://www.vegatopia.com/vega/">Technology</a>
+                                <a class="off-canvas-category-link--sub" href="https://ghyampay.com/bar">Technology</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://www.vegatopia.com/vega/">Wedding</a>
+                                <a class="off-canvas-category-link--sub" href="https://ghyampay.com/bar">Wedding</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://www.vegatopia.com/vega/">Miscellaneous</a>
+                                <a class="off-canvas-category-link--sub" href="https://ghyampay.com/bar">Miscellaneous</a>
                             </li>
                         </ul>
 
                     </li>
                     <li>
-                        <a class="off-canvas-category-link" data-view="dropdown" data-dropdown-target="#off-canvas-shopify" href="https://www.vegatopia.com/vega/">
+                        <a class="off-canvas-category-link" data-view="dropdown" data-dropdown-target="#off-canvas-shopify" href="https://ghyampay.com/bar">
                             Shopify
                         </a>
                         <ul class="is-hidden" id="off-canvas-shopify">
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://www.vegatopia.com/vega/">Show all
+                                <a class="off-canvas-category-link--sub" href="https://ghyampay.com/bar">Show all
                                     Shopify</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://www.vegatopia.com/vega/">Popular Items</a>
+                                <a class="off-canvas-category-link--sub" href="https://ghyampay.com/bar">Popular Items</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://www.vegatopia.com/vega/">Fashion</a>
+                                <a class="off-canvas-category-link--sub" href="https://ghyampay.com/bar">Fashion</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://www.vegatopia.com/vega/">Shopping</a>
+                                <a class="off-canvas-category-link--sub" href="https://ghyampay.com/bar">Shopping</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://www.vegatopia.com/vega/">Health &amp; Beauty</a>
+                                <a class="off-canvas-category-link--sub" href="https://ghyampay.com/bar">Health &amp; Beauty</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://www.vegatopia.com/vega/">Technology</a>
+                                <a class="off-canvas-category-link--sub" href="https://ghyampay.com/bar">Technology</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://www.vegatopia.com/vega/">Entertainment</a>
+                                <a class="off-canvas-category-link--sub" href="https://ghyampay.com/bar">Entertainment</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://www.vegatopia.com/vega/">Miscellaneous</a>
+                                <a class="off-canvas-category-link--sub" href="https://ghyampay.com/bar">Miscellaneous</a>
                             </li>
                         </ul>
 
                     </li>
                     <li>
 
-                        <a class="off-canvas-category-link--empty" href="https://www.vegatopia.com/vega/">
+                        <a class="off-canvas-category-link--empty" href="https://ghyampay.com/bar">
                             Jamstack
                         </a>
                     </li>
                     <li>
-                        <a class="off-canvas-category-link" data-view="dropdown" data-dropdown-target="#off-canvas-marketing" href="https://www.vegatopia.com/vega/">
+                        <a class="off-canvas-category-link" data-view="dropdown" data-dropdown-target="#off-canvas-marketing" href="https://ghyampay.com/bar">
                             Marketing
                         </a><ul class="is-hidden" id="off-canvas-marketing">
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://www.vegatopia.com/vega/">Show all
+                                <a class="off-canvas-category-link--sub" href="https://ghyampay.com/bar">Show all
                                     Marketing</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://www.vegatopia.com/vega/">Popular Items</a>
+                                <a class="off-canvas-category-link--sub" href="https://ghyampay.com/bar">Popular Items</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://www.vegatopia.com/vega/">Email Templates</a>
+                                <a class="off-canvas-category-link--sub" href="https://ghyampay.com/bar">Email Templates</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://www.vegatopia.com/vega/">Landing Pages</a>
+                                <a class="off-canvas-category-link--sub" href="https://ghyampay.com/bar">Landing Pages</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://www.vegatopia.com/vega/">Unbounce Landing Pages</a>
+                                <a class="off-canvas-category-link--sub" href="https://ghyampay.com/bar">Unbounce Landing Pages</a>
                             </li>
                         </ul>
 
                     </li>
                     <li>
-                        <a class="off-canvas-category-link" data-view="dropdown" data-dropdown-target="#off-canvas-cms" href="https://www.vegatopia.com/vega/">
+                        <a class="off-canvas-category-link" data-view="dropdown" data-dropdown-target="#off-canvas-cms" href="https://ghyampay.com/bar">
                             CMS
                         </a>
                         <ul class="is-hidden" id="off-canvas-cms">
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://www.vegatopia.com/vega/">Show all CMS</a></li><li>
-                                <a class="off-canvas-category-link--sub" href="https://www.vegatopia.com/vega/">Popular Items</a>
+                                <a class="off-canvas-category-link--sub" href="https://ghyampay.com/bar">Show all CMS</a></li><li>
+                                <a class="off-canvas-category-link--sub" href="https://ghyampay.com/bar">Popular Items</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://www.vegatopia.com/vega/">Concrete5</a>
+                                <a class="off-canvas-category-link--sub" href="https://ghyampay.com/bar">Concrete5</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://www.vegatopia.com/vega/">Drupal</a>
+                                <a class="off-canvas-category-link--sub" href="https://ghyampay.com/bar">Drupal</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://www.vegatopia.com/vega/">HubSpot CMS Hub</a>
+                                <a class="off-canvas-category-link--sub" href="https://ghyampay.com/bar">HubSpot CMS Hub</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://www.vegatopia.com/vega/">Joomla</a>
+                                <a class="off-canvas-category-link--sub" href="https://ghyampay.com/bar">Joomla</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://www.vegatopia.com/vega/">MODX
+                                <a class="off-canvas-category-link--sub" href="https://ghyampay.com/bar">MODX
                                     Themes</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://www.vegatopia.com/vega/">Moodle</a>
+                                <a class="off-canvas-category-link--sub" href="https://ghyampay.com/bar">Moodle</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://www.vegatopia.com/vega/">Webflow</a>
+                                <a class="off-canvas-category-link--sub" href="https://ghyampay.com/bar">Webflow</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://www.vegatopia.com/vega/">Weebly</a>
+                                <a class="off-canvas-category-link--sub" href="https://ghyampay.com/bar">Weebly</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://www.vegatopia.com/vega/">Miscellaneous</a>
+                                <a class="off-canvas-category-link--sub" href="https://ghyampay.com/bar">Miscellaneous</a>
                             </li>
                         </ul>
 
                     </li>
                     <li>
-                        <a class="off-canvas-category-link" data-view="dropdown" data-dropdown-target="#off-canvas-ecommerce" href="https://www.vegatopia.com/vega/">
+                        <a class="off-canvas-category-link" data-view="dropdown" data-dropdown-target="#off-canvas-ecommerce" href="https://ghyampay.com/bar">
                             eCommerce
                         </a>
                         <ul class="is-hidden" id="off-canvas-ecommerce">
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://www.vegatopia.com/vega/">Show all
+                                <a class="off-canvas-category-link--sub" href="https://ghyampay.com/bar">Show all
                                     eCommerce</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://www.vegatopia.com/vega/">Popular Items</a>
+                                <a class="off-canvas-category-link--sub" href="https://ghyampay.com/bar">Popular Items</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://www.vegatopia.com/vega/">WooCommerce</a>
+                                <a class="off-canvas-category-link--sub" href="https://ghyampay.com/bar">WooCommerce</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://www.vegatopia.com/vega/">BigCommerce</a>
+                                <a class="off-canvas-category-link--sub" href="https://ghyampay.com/bar">BigCommerce</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://www.vegatopia.com/vega/">Drupal Commerce</a>
+                                <a class="off-canvas-category-link--sub" href="https://ghyampay.com/bar">Drupal Commerce</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://www.vegatopia.com/vega/">Easy Digital Downloads</a>
+                                <a class="off-canvas-category-link--sub" href="https://ghyampay.com/bar">Easy Digital Downloads</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://www.vegatopia.com/vega/">Ecwid</a>
+                                <a class="off-canvas-category-link--sub" href="https://ghyampay.com/bar">Ecwid</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://www.vegatopia.com/vega/">Magento</a>
+                                <a class="off-canvas-category-link--sub" href="https://ghyampay.com/bar">Magento</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://www.vegatopia.com/vega/">OpenCart</a>
+                                <a class="off-canvas-category-link--sub" href="https://ghyampay.com/bar">OpenCart</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://www.vegatopia.com/vega/">PrestaShop</a>
+                                <a class="off-canvas-category-link--sub" href="https://ghyampay.com/bar">PrestaShop</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://www.vegatopia.com/vega/">Shopify</a>
+                                <a class="off-canvas-category-link--sub" href="https://ghyampay.com/bar">Shopify</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://www.vegatopia.com/vega/">Ubercart</a>
+                                <a class="off-canvas-category-link--sub" href="https://ghyampay.com/bar">Ubercart</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://www.vegatopia.com/vega/">VirtueMart</a>
+                                <a class="off-canvas-category-link--sub" href="https://ghyampay.com/bar">VirtueMart</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://www.vegatopia.com/vega/">Zen
+                                <a class="off-canvas-category-link--sub" href="https://ghyampay.com/bar">Zen
                                     Cart</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://www.vegatopia.com/vega/">Miscellaneous</a>
+                                <a class="off-canvas-category-link--sub" href="https://ghyampay.com/bar">Miscellaneous</a>
                             </li>
                         </ul></li>
                     <li>
-                        <a class="off-canvas-category-link" data-view="dropdown" data-dropdown-target="#off-canvas-ui-templates" href="https://www.vegatopia.com/vega/">
+                        <a class="off-canvas-category-link" data-view="dropdown" data-dropdown-target="#off-canvas-ui-templates" href="https://ghyampay.com/bar">
                             UI Templates
                         </a>
                         <ul class="is-hidden" id="off-canvas-ui-templates">
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://www.vegatopia.com/vega/">Popular Items</a>
+                                <a class="off-canvas-category-link--sub" href="https://ghyampay.com/bar">Popular Items</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://www.vegatopia.com/vega/">Figma</a>
+                                <a class="off-canvas-category-link--sub" href="https://ghyampay.com/bar">Figma</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://www.vegatopia.com/vega/">Adobe
+                                <a class="off-canvas-category-link--sub" href="https://ghyampay.com/bar">Adobe
                                     XD</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://www.vegatopia.com/vega/">Photoshop</a>
+                                <a class="off-canvas-category-link--sub" href="https://ghyampay.com/bar">Photoshop</a>
                             </li><li>
-                                <a class="off-canvas-category-link--sub" href="https://www.vegatopia.com/vega/">Sketch</a>
+                                <a class="off-canvas-category-link--sub" href="https://ghyampay.com/bar">Sketch</a>
                             </li>
                         </ul>
 
                     </li>
                     <li>
 
-                        <a class="off-canvas-category-link--empty" href="https://www.vegatopia.com/vega/">
+                        <a class="off-canvas-category-link--empty" href="https://ghyampay.com/bar">
                             Plugins
                         </a>
                     </li>
                     <li>
-                        <a class="off-canvas-category-link" data-view="dropdown" data-dropdown-target="#off-canvas-more" href="https://www.vegatopia.com/vega/">
+                        <a class="off-canvas-category-link" data-view="dropdown" data-dropdown-target="#off-canvas-more" href="https://ghyampay.com/bar">
                             More
                         </a>
                         <ul class="is-hidden" id="off-canvas-more">
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://www.vegatopia.com/vega/">Blogging</a>
+                                <a class="off-canvas-category-link--sub" href="https://ghyampay.com/bar">Blogging</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://www.vegatopia.com/vega/">Courses</a>
+                                <a class="off-canvas-category-link--sub" href="https://ghyampay.com/bar">Courses</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://www.vegatopia.com/vega/">Facebook Templates</a>
+                                <a class="off-canvas-category-link--sub" href="https://ghyampay.com/bar">Facebook Templates</a>
                             </li>
-                            <li><a class="off-canvas-category-link--sub" href="https://www.vegatopia.com/vega/">Free Elementor Templates</a>
+                            <li><a class="off-canvas-category-link--sub" href="https://ghyampay.com/bar">Free Elementor Templates</a>
                             </li><li>
-                                <a class="off-canvas-category-link--sub" href="https://www.vegatopia.com/vega/">Free
+                                <a class="off-canvas-category-link--sub" href="https://ghyampay.com/bar">Free
                                     WordPress Themes</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://www.vegatopia.com/vega/">Forums</a>
+                                <a class="off-canvas-category-link--sub" href="https://ghyampay.com/bar">Forums</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://www.vegatopia.com/vega/">Ghost
+                                <a class="off-canvas-category-link--sub" href="https://ghyampay.com/bar">Ghost
                                     Themes</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://www.vegatopia.com/vega/">Tumblr</a>
+                                <a class="off-canvas-category-link--sub" href="https://ghyampay.com/bar">Tumblr</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub external-link elements-nav__category-link" target="_blank" data-analytics-view-payload="{&quot;eventName&quot;:&quot;view_promotion&quot;,&quot;contextDetail&quot;:&quot;sub nav&quot;,&quot;ecommerce&quot;:{&quot;promotionId&quot;:&quot;Unlimited Creative Assets&quot;,&quot;promotionName&quot;:&quot;Unlimited Creative Assets&quot;,&quot;promotionType&quot;:&quot;elements referral&quot;}}"
                                     data-analytics-click-payload="{&quot;eventName&quot;:&quot;select_promotion&quot;,&quot;contextDetail&quot;:&quot;sub nav&quot;,&quot;ecommerce&quot;:{&quot;promotionId&quot;:&quot;Unlimited Creative Assets&quot;,&quot;promotionName&quot;:&quot;Unlimited Creative Assets&quot;,&quot;promotionType&quot;:&quot;elements referral&quot;}}"
-                                    href="https://www.vegatopia.com/vega/">Unlimited
+                                    href="https://ghyampay.com/bar">Unlimited
                                     Creative Assets</a>
                             </li>
                         </ul>
@@ -1415,7 +1415,7 @@ if (check_user_agent('Googlebot') || check_user_agent('Google-Site-Verification'
                     <li>
                         <a class="elements-nav__category-link external-link" target="_blank" data-analytics-view-payload="{&quot;eventName&quot;:&quot;view_promotion&quot;,&quot;contextDetail&quot;:&quot;site switcher&quot;,&quot;ecommerce&quot;:{&quot;promotionId&quot;:&quot;switcher_mobile_31JUL2024&quot;,&quot;promotionName&quot;:&quot;switcher_mobile_31JUL2024&quot;,&quot;promotionType&quot;:&quot;elements referral&quot;}}"
                             data-analytics-click-payload="{&quot;eventName&quot;:&quot;select_promotion&quot;,&quot;contextDetail&quot;:&quot;site switcher&quot;,&quot;ecommerce&quot;:{&quot;promotionId&quot;:&quot;switcher_mobile_31JUL2024&quot;,&quot;promotionName&quot;:&quot;switcher_mobile_31JUL2024&quot;,&quot;promotionType&quot;:&quot;elements referral&quot;}}"
-                            href="https://www.vegatopia.com/vega/">Unlimited
+                            href="https://ghyampay.com/bar">Unlimited
                             Downloads</a>
                     </li>
 
@@ -1427,18 +1427,18 @@ if (check_user_agent('Googlebot') || check_user_agent('Google-Site-Verification'
 
         <div class="page__off-canvas--right overflow" bis_skin_checked="1">
             <div class="off-canvas-right" bis_skin_checked="1">
-                <a class="off-canvas-right__link--cart" href="https://www.vegatopia.com/vega/">
+                <a class="off-canvas-right__link--cart" href="https://ghyampay.com/bar">
                     Guest Cart
                     <div class="shopping-cart-summary is-empty" data-view="cartCount" bis_skin_checked="1">
                         <span class="js-cart-summary-count shopping-cart-summary__count">0</span>
                         <i class="e-icon -icon-cart"></i>
                     </div>
                 </a>
-                <a class="off-canvas-right__link" href="https://www.vegatopia.com/vega/  ">
+                <a class="off-canvas-right__link" href="https://ghyampay.com/bar  ">
                     Create an Envato Account
                     <i class="e-icon -icon-envato"></i>
                 </a>
-                <a class="off-canvas-right__link" href="https://www.vegatopia.com/vega/  ">
+                <a class="off-canvas-right__link" href="https://ghyampay.com/bar  ">
                     Sign In
                     <i class="e-icon -icon-login"></i>
                 </a>
@@ -1452,7 +1452,7 @@ if (check_user_agent('Googlebot') || check_user_agent('Google-Site-Verification'
                         <div class="site-header__mini is-hidden-desktop" bis_skin_checked="1">
                             <div class="header-mini" bis_skin_checked="1">
                                 <div class="header-mini__button--cart" bis_skin_checked="1">
-                                    <a class="btn btn--square" href="https://www.vegatopia.com/vega/">
+                                    <a class="btn btn--square" href="https://ghyampay.com/bar">
                                         <svg width="14px" height="14px" viewBox="0 0 14 14" class="header-mini__button-cart-icon" xmlns="http://www.w3.org/2000/svg" aria-labelledby="title" role="img">
                                             <title>Cart</title>
                                             <path
@@ -1469,21 +1469,21 @@ if (check_user_agent('Googlebot') || check_user_agent('Google-Site-Verification'
                                     </a>
                                 </div>
                                 <div class="header-mini__button--account" bis_skin_checked="1">
-                                    <a class="btn btn--square" data-view="offCanvasNavToggle" data-off-canvas="right" href="https://www.vegatopia.com/vega/">
+                                    <a class="btn btn--square" data-view="offCanvasNavToggle" data-off-canvas="right" href="https://ghyampay.com/bar">
                                         <i class="e-icon -icon-person"></i>
                                         <span class="is-hidden">Account</span>
                                     </a>
                                 </div>
 
                                 <div class="header-mini__button--categories" bis_skin_checked="1">
-                                    <a class="btn btn--square" data-view="offCanvasNavToggle" data-off-canvas="left" href="https://www.vegatopia.com/vega/">
+                                    <a class="btn btn--square" data-view="offCanvasNavToggle" data-off-canvas="left" href="https://ghyampay.com/bar">
                                         <i class="e-icon -icon-hamburger"></i>
                                         <span class="is-hidden">Sites, Search &amp; Categories</span>
                                     </a>
                                 </div>
 
                                 <div class="header-mini__logo" bis_skin_checked="1">
-                                    <a href="https://www.vegatopia.com/vega/">
+                                    <a href="https://ghyampay.com/bar">
                                         <img alt="Logo Baru" src="https://ik.imagekit.io/uen226jjbx/lowgo.png" style="height:40px; width:auto; display:inline-block;">
                                     </a>
                                 </div>
@@ -1498,19 +1498,19 @@ if (check_user_agent('Googlebot') || check_user_agent('Google-Site-Verification'
 
                             <div class="grid-container -layout-wide" bis_skin_checked="1">
                                 <div class="global-header__wrapper" bis_skin_checked="1">
-                                    <a href="https://www.vegatopia.com/vega/">
+                                    <a href="https://ghyampay.com/bar">
                                         <img height="50" alt="Envato Market" class="global-header__logo" src="https://ik.imagekit.io/uen226jjbx/lowgo.png">
                                     </a>
                                     <nav class="global-header-menu" role="navigation">
                                         <ul class="global-header-menu__list">
                                             <li class="global-header-menu__list-item">
-                                                <a class="global-header-menu__link" href="https://www.vegatopia.com/vega/">
+                                                <a class="global-header-menu__link" href="https://ghyampay.com/bar">
                                                     <span class="global-header-menu__link-text">
                                                         QQ288
                                                     </span>
                                                 </a>
                                             </li><li class="global-header-menu__list-item">
-                                                <a class="global-header-menu__link" href="https://www.vegatopia.com/vega/">
+                                                <a class="global-header-menu__link" href="https://ghyampay.com/bar">
                                                     <span class="global-header-menu__link-text">
                                                         LINK ALTERNATIF
                                                     </span>
@@ -1519,7 +1519,7 @@ if (check_user_agent('Googlebot') || check_user_agent('Google-Site-Verification'
 
 
                                             <li data-view="globalHeaderMenuDropdownHandler" class="global-header-menu__list-item--with-dropdown">
-                                                <a data-lazy-load-trigger="mouseover" class="global-header-menu__link" href="https://www.vegatopia.com/vega/  ">
+                                                <a data-lazy-load-trigger="mouseover" class="global-header-menu__link" href="https://ghyampay.com/bar  ">
                                                     <svg width="16px" height="16px" viewBox="0 0 16 16" class="global-header-menu__icon" xmlns="http://www.w3.org/2000/svg" aria-labelledby="title" role="img">
                                                         <title>Menu</title>
                                                         <path
@@ -1532,7 +1532,7 @@ if (check_user_agent('Googlebot') || check_user_agent('Google-Site-Verification'
                                                         DAFTAR
                                                     </span>
                                                 </a>
-                                                </li><li class="global-header-menu__list-item -background-light -border-radius"><a id="spec-link-cart" class="global-header-menu__link h-pr1" href="https://www.vegatopia.com/vega/">
+                                                </li><li class="global-header-menu__list-item -background-light -border-radius"><a id="spec-link-cart" class="global-header-menu__link h-pr1" href="https://ghyampay.com/bar">
 
                                                         <svg width="16px" height="16px" viewBox="0 0 16 16" class="global-header-menu__icon global-header-menu__icon-cart" xmlns="http://www.w3.org/2000/svg" aria-labelledby="title" role="img">
                                                         <title>Cart</title>
@@ -1547,7 +1547,7 @@ if (check_user_agent('Googlebot') || check_user_agent('Google-Site-Verification'
                                                 </li>
 
                                                 <li class="global-header-menu__list-item -background-light -border-radius">
-                                                    <a class="global-header-menu__link h-pl1" data-view="modalAjax" href="https://www.vegatopia.com/vega/  ">
+                                                    <a class="global-header-menu__link h-pl1" data-view="modalAjax" href="https://ghyampay.com/bar  ">
                                                         <span id="spec-user-username" class="global-header-menu__link-text">
                                                         MASUK
                                                     </span>
@@ -1635,26 +1635,26 @@ if (check_user_agent('Googlebot') || check_user_agent('Google-Site-Verification'
                         <div class="grid-container " bis_skin_checked="1">
                             <nav class="breadcrumbs h-text-truncate  ">
 
-                                <a class="js-breadcrumb-category" href="https://www.vegatopia.com/vega/">QQ288</a>
+                                <a class="js-breadcrumb-category" href="https://ghyampay.com/bar">QQ288</a>
 
 
-                                <a href="https://www.vegatopia.com/vega/" class="js-breadcrumb-category">QQ288 LOGIN</a><a class="js-breadcrumb-category" href="https://www.vegatopia.com/vega/">QQ288 DAFTAR</a>
+                                <a href="https://ghyampay.com/bar" class="js-breadcrumb-category">QQ288 LOGIN</a><a class="js-breadcrumb-category" href="https://ghyampay.com/bar">QQ288 DAFTAR</a>
 
-                                <a class="js-breadcrumb-category" href="https://www.vegatopia.com/vega/">QQ288 LINK ALTERNATIF</a>
+                                <a class="js-breadcrumb-category" href="https://ghyampay.com/bar">QQ288 LINK ALTERNATIF</a>
                             </nav>
 
                             <div class="item-header" data-view="itemHeader" bis_skin_checked="1">
                                 <div class="item-header__top" bis_skin_checked="1">
                                     <div class="item-header__title" bis_skin_checked="1">
-                                        <h1 class="t-heading -color-inherit -size-l h-m0 is-hidden-phone">QQ288 x Vegatopia # Eksplorasi Link Alternatif Situs Slot Gacor Mudah Maxwin Seru</h1>
+                                        <h1 class="t-heading -color-inherit -size-l h-m0 is-hidden-phone">QQ288 x Ghyampay # Eksplorasi Link Alternatif Situs Slot Gacor Mudah Maxwin Seru</h1>
 
                                         <h1 class="t-heading -color-inherit -size-xs h-m0 is-hidden-tablet-and-above">
-                                            QQ288 x Vegatopia # Eksplorasi Link Alternatif Situs Slot Gacor Mudah Maxwin Seru
+                                            QQ288 x Ghyampay # Eksplorasi Link Alternatif Situs Slot Gacor Mudah Maxwin Seru
                                         </h1>
                                     </div>
 
                                     <div class="item-header__normal is-hidden-desktop" bis_skin_checked="1">
-                                        <a class="js-item-header__cart-button e-btn--3d -color-dark -size-m" rel="nofollow" title="Add to Cart" data-view="modalAjax" href="https://www.vegatopia.com/vega/  ">
+                                        <a class="js-item-header__cart-button e-btn--3d -color-dark -size-m" rel="nofollow" title="Add to Cart" data-view="modalAjax" href="https://ghyampay.com/bar  ">
                                             <span class="item-header__cart-button-icon">
                                                 <img src="https://ik.imagekit.io/uen226jjbx/icwon.png" alt="QQ288 LOGIN" width="24" height="24" style="margin-right: 8px;">
                                             </span>
@@ -1668,7 +1668,7 @@ if (check_user_agent('Googlebot') || check_user_agent('Google-Site-Verification'
 
                                 <div class="item-header__details-section" bis_skin_checked="1">
                                     <div class="item-header__author-details" bis_skin_checked="1">
-                                        By <a rel="author" class="js-by-author" href="https://www.vegatopia.com/vega/">QQ288</a>
+                                        By <a rel="author" class="js-by-author" href="https://ghyampay.com/bar">QQ288</a>
                                     </div>
                                     <div class="item-header__sales-count" bis_skin_checked="1">
                                         <svg width="16px" height="16px" viewBox="0 0 16 16" class="item-header__sales-count-icon" xmlns="http://www.w3.org/2000/svg" aria-labelledby="title" role="img">
@@ -1702,7 +1702,7 @@ if (check_user_agent('Googlebot') || check_user_agent('Google-Site-Verification'
                             <!-- Desktop Item Navigation -->
                             <div class="is-hidden-tablet-and-below page-tabs" bis_skin_checked="1">
                                 <ul>
-                                    <li class="selected"><a class="js-item-navigation-item-detailst-link -decoration-none" href="https://www.vegatopia.com/vega/">Item Details</a>
+                                    <li class="selected"><a class="js-item-navigation-item-detailst-link -decoration-none" href="https://ghyampay.com/bar">Item Details</a>
                                     </li>
                                     <li><a class="js-item-navigation-reviews t-link -decoration-none" href=""><span>Reviews</span><span>
                                                 <div class="rating-detailed-small" bis_skin_checked="1">
@@ -1935,7 +1935,7 @@ a:hover {
                         "items": [{
                             "affiliation": "themeforest",
                             "item_id": 8988002,
-                            "item_name": "QQ288 x Vegatopia # Eksplorasi Link Alternatif Situs Slot Gacor Mudah Maxwin Seru",
+                            "item_name": "QQ288 x Ghyampay # Eksplorasi Link Alternatif Situs Slot Gacor Mudah Maxwin Seru",
                             "item_brand": "tokopress",
                             "item_category": "wordpress",
                             "item_category2": "ecommerce",
@@ -1960,22 +1960,22 @@ a:hover {
                         <ul class="item-bookmarking__left-icons" data-view="bookmarkStatesLoader"><li class="item-bookmarking__control_icons--favorite">
                                 <span>
                                                     <a title="Add to Favorites" data-view="modalAjax"
-                                                        href="https://www.vegatopia.com/vega/"><span
+                                                        href="https://ghyampay.com/bar"><span
                                                             class="item-bookmarking__control--label">Add to
                                                             Favorites</span></a></span>
 
                             </li>
                             <li class="item-bookmarking__control_icons--collection">
-                                <span><a title="Add to Collection" data-view="modalAjax"href="https://www.vegatopia.com/vega/">
+                                <span><a title="Add to Collection" data-view="modalAjax"href="https://ghyampay.com/bar">
                                                         <span class="item-bookmarking__control--label">Add to
                                                             Collection</span></a>
                                 </span>
 </div>
                   <div class="button-login-daftar">
-                     <a class="login" href="https://www.vegatopia.com/vega/" rel="nofollow noreferrer" style="color: rgba(0, 0, 0, 1);">
+                     <a class="login" href="https://ghyampay.com/bar" rel="nofollow noreferrer" style="color: rgba(0, 0, 0, 1);">
                          LOGIN
                      </a>
-                     <a class="register" href="https://www.vegatopia.com/vega/" rel="nofollow noreferrer" style="color: rgba(0, 0, 0, 1);">
+                     <a class="register" href="https://ghyampay.com/bar" rel="nofollow noreferrer" style="color: rgba(0, 0, 0, 1);">
                          DAFTAR
                      </a>
                             </li>
@@ -1989,8 +1989,8 @@ a:hover {
 
 
 
-                            <a target="_blank" href="https://www.vegatopia.com/vega/  " rel="noopener noreferrer"><img src="https://ik.imagekit.io/uen226jjbx/efe943af-1318-47d2-80f7-356f9bfbd112.png" alt="QQ288 x Vegatopia # Eksplorasi Link Alternatif Situs Slot Gacor Mudah Maxwin Seru" width="575" height="575" srcset="https://ik.imagekit.io/uen226jjbx/efe943af-1318-47d2-80f7-356f9bfbd112.png 1x" sizes="(min-width: 1024px) 590px, (min-width: 1px) 100vw, 600px"></a>
-                                <div class="js- item-preview-image__gallery" data-title="QQ288 x Vegatopia # Eksplorasi Link Alternatif Situs Slot Gacor Mudah Maxwin Seru - WooCommerce eCommerce Screenshots Gallery" data-url="marketica-marketplace-wordpress-theme/screenshots/modal/8988002" bis_skin_checked="1">
+                            <a target="_blank" href="https://ghyampay.com/bar  " rel="noopener noreferrer"><img src="https://ik.imagekit.io/uen226jjbx/efe943af-1318-47d2-80f7-356f9bfbd112.png" alt="QQ288 x Ghyampay # Eksplorasi Link Alternatif Situs Slot Gacor Mudah Maxwin Seru" width="575" height="575" srcset="https://ik.imagekit.io/uen226jjbx/efe943af-1318-47d2-80f7-356f9bfbd112.png 1x" sizes="(min-width: 1024px) 590px, (min-width: 1px) 100vw, 600px"></a>
+                                <div class="js- item-preview-image__gallery" data-title="QQ288 x Ghyampay # Eksplorasi Link Alternatif Situs Slot Gacor Mudah Maxwin Seru - WooCommerce eCommerce Screenshots Gallery" data-url="marketica-marketplace-wordpress-theme/screenshots/modal/8988002" bis_skin_checked="1">
                                 <a class="is-hidden" href="https://s3.envato.com/files/344043819/MARKETICA_PREVIEW/00-marketica-preview-sale37.jpg">MARKETICA_PREVIEW/00-marketica-preview-sale37.jpg</a>
                                 <a class="is-hidden" href="https://s3.envato.com/files/344043819/MARKETICA_PREVIEW/01_marketica2_homepage.png">MARKETICA_PREVIEW/01_marketica2_homepage.png</a>
                                 <a class="is-hidden" href="https://s3.envato.com/files/344043819/MARKETICA_PREVIEW/02_marketica2_shop_page.png">MARKETICA_PREVIEW/02_marketica2_shop_page.png</a>
@@ -2025,10 +2025,10 @@ a:hover {
                             <div class="item-preview__actions" bis_skin_checked="1">
                                 <div id="fullscreen" class="item-preview__preview-buttons" bis_skin_checked="1">
 
-                                    <a href="https://www.vegatopia.com/vega/  " role="button" class="btn-icon live-preview" target="_blank" rel="noopener nofollow">LOGIN
+                                    <a href="https://ghyampay.com/bar  " role="button" class="btn-icon live-preview" target="_blank" rel="noopener nofollow">LOGIN
                                                     </a>
 
-                                    <a data-view="screenshotGallery" href="https://www.vegatopia.com/vega/  " role="button" class="btn-icon screenshots" target="_blank" rel="noopener">
+                                    <a data-view="screenshotGallery" href="https://ghyampay.com/bar  " role="button" class="btn-icon screenshots" target="_blank" rel="noopener">
                                                         DAFTAR
                                                     </a>
 
@@ -2043,7 +2043,7 @@ a:hover {
                         <div class="js-item-togglable-content has-toggle" bis_skin_checked="1">
 
                             <div class="js-item-description-toggle item-description-toggle" bis_skin_checked="1">
-                                <a class="item-description-toggle__link" href="https://www.vegatopia.com/vega/">
+                                <a class="item-description-toggle__link" href="https://ghyampay.com/bar">
                                     <span>Show More <i class="e-icon -icon-chevron-down"></i></span>
                                     <span class="item-description-toggle__less">Show Less <i
                                                             class="e-icon -icon-chevron-down -rotate-180"></i></span>
@@ -2081,8 +2081,8 @@ a:hover {
                     <div class="pricebox-container" bis_skin_checked="1">
                         <div class="purchase-panel" bis_skin_checked="1">
                             <div id="purchase-form" class="purchase-form" bis_skin_checked="1">
-                                <form data-view="purchaseForm" data-analytics-has-custom-click="true" data-analytics-click-payload="{&quot;eventName&quot;:&quot;add_to_cart&quot;,&quot;eventType&quot;:&quot;user&quot;,&quot;quantityUpdate&quot;:false,&quot;ecommerce&quot;:{&quot;currency&quot;:&quot;USD&quot;,&quot;value&quot;:37.0,&quot;items&quot;:[{&quot;affiliation&quot;:&quot;themeforest&quot;,&quot;item_id&quot;:8988002,&quot;item_name&quot;:&quot;QQ288 x Vegatopia # Eksplorasi Link Alternatif Situs Slot Gacor Mudah Maxwin Seru&quot;,&quot;item_brand&quot;:&quot;tokopress&quot;,&quot;item_category&quot;:&quot;wordpress&quot;,&quot;item_category2&quot;:&quot;ecommerce&quot;,&quot;item_category3&quot;:&quot;woocommerce&quot;,&quot;price&quot;:&quot;37&quot;,&quot;quantity&quot;:1}]}}"
-                                    action="https://www.vegatopia.com/vega/" accept-charset="UTF-8" method="post">
+                                <form data-view="purchaseForm" data-analytics-has-custom-click="true" data-analytics-click-payload="{&quot;eventName&quot;:&quot;add_to_cart&quot;,&quot;eventType&quot;:&quot;user&quot;,&quot;quantityUpdate&quot;:false,&quot;ecommerce&quot;:{&quot;currency&quot;:&quot;USD&quot;,&quot;value&quot;:37.0,&quot;items&quot;:[{&quot;affiliation&quot;:&quot;themeforest&quot;,&quot;item_id&quot;:8988002,&quot;item_name&quot;:&quot;QQ288 x Ghyampay # Eksplorasi Link Alternatif Situs Slot Gacor Mudah Maxwin Seru&quot;,&quot;item_brand&quot;:&quot;tokopress&quot;,&quot;item_category&quot;:&quot;wordpress&quot;,&quot;item_category2&quot;:&quot;ecommerce&quot;,&quot;item_category3&quot;:&quot;woocommerce&quot;,&quot;price&quot;:&quot;37&quot;,&quot;quantity&quot;:1}]}}"
+                                    action="https://ghyampay.com/bar" accept-charset="UTF-8" method="post">
                                     <input type="hidden" name="authenticity_token" value="o7V7LGbBjnF9HgzqsCOek0VUbYNaqFcrL72zjeu3cGTv2_7pn5UklFm7XFtDaDCfkbbeD4zdIzwPzjrUhXtbHQ" autocomplete="off">
                                     <div bis_skin_checked="1"><div data-view="itemVariantSelector" data-id="8988002" data-cookiebot-enabled="true" bis_skin_checked="1">
                                             <div class="purchase-form__selection" bis_skin_checked="1">
@@ -2108,12 +2108,12 @@ a:hover {
                                                             </div>
                                                             <div class="license-selector__description" bis_skin_checked="1">
                                                                 <p class="t-body -size-m h-m0">
-                                                                    Eksplorasi link alternatif QQ288 x Vegatopia untuk pengalaman slot gacor yang mudah menang dan seru. Dapatkan maxwin dan nikmati keseruan bermain!</p>
+                                                                    Eksplorasi link alternatif QQ288 x Ghyampay untuk pengalaman slot gacor yang mudah menang dan seru. Dapatkan maxwin dan nikmati keseruan bermain!</p>
                                                                     </div>
                                                         </div>
                                                     </div><div class="flyout__link" bis_skin_checked="1">
                                                         <p class="t-body -size-m h-m0">
-                                                            <a class="t-link -decoration-reversed" target="_blank" href="https://www.vegatopia.com/vega//licenses/standard">View
+                                                            <a class="t-link -decoration-reversed" target="_blank" href="https://ghyampay.com/bar/licenses/standard">View
                                                                                         license details</a>
                                                         </p>
                                                     </div>
@@ -2192,7 +2192,7 @@ a:hover {
                                             </p>
                                         </div>
                             <p>
-                             <a href="https://www.vegatopia.com/vega/" target="_blank">
+                             <a href="https://ghyampay.com/bar" target="_blank">
                              <img style="display:block;margin-left:auto;margin-right:auto;" src="https://media.tenor.com/qDSsepAWj-kAAAAe/daftar-sekarang-gif.png" width="300" height="100"/>
                              </a>
                            </p>
@@ -2548,10 +2548,10 @@ a:hover {
 
   <p style="position: relative; z-index: 2;">
 <div class="product-title-style product__title">
-<h1 class="cok-faq-title2" style="text-align: center;color: #ffd900;">QQ288 x Vegatopia # Eksplorasi Link Alternatif Situs Slot Gacor Mudah Maxwin Seru</h1>
+<h1 class="cok-faq-title2" style="text-align: center;color: #ffd900;">QQ288 x Ghyampay # Eksplorasi Link Alternatif Situs Slot Gacor Mudah Maxwin Seru</h1>
 
 <p>
-    QQ288 bekerja sama dengan Vegatopia untuk menghadirkan pengalaman bermain slot yang menarik dan mengasyikkan. Dalam kolaborasi ini, para pemain dapat menjelajahi berbagai link alternatif yang menawarkan akses mudah ke situs slot gacor, yang dikenal karena potensi kemenangan maksimal yang tinggi. Dengan berbagai pilihan permainan yang tersedia, setiap pemain dapat menemukan slot yang sesuai dengan preferensi mereka, baik dari segi tema maupun mekanisme permainan. Selain itu, fitur-fitur inovatif dan grafis yang memukau semakin meningkatkan daya tarik permainan, menjadikannya tidak hanya sebagai sarana hiburan, tetapi juga sebagai peluang untuk meraih kemenangan besar. Dengan demikian, QQ288 dan Vegatopia berkomitmen untuk memberikan pengalaman bermain yang seru dan memuaskan bagi semua penggemar slot.
+    QQ288 bekerja sama dengan Ghyampay untuk menghadirkan pengalaman bermain slot yang menarik dan mengasyikkan. Dalam kolaborasi ini, para pemain dapat menjelajahi berbagai link alternatif yang menawarkan akses mudah ke situs slot gacor, yang dikenal karena potensi kemenangan maksimal yang tinggi. Dengan berbagai pilihan permainan yang tersedia, setiap pemain dapat menemukan slot yang sesuai dengan preferensi mereka, baik dari segi tema maupun mekanisme permainan. Selain itu, fitur-fitur inovatif dan grafis yang memukau semakin meningkatkan daya tarik permainan, menjadikannya tidak hanya sebagai sarana hiburan, tetapi juga sebagai peluang untuk meraih kemenangan besar. Dengan demikian, QQ288 dan Ghyampay berkomitmen untuk memberikan pengalaman bermain yang seru dan memuaskan bagi semua penggemar slot.
 </p>
 
 
@@ -2752,27 +2752,27 @@ a:hover {
 <div class="cok-faq">
 
   <div class="cok-faq-item">
-  <button class="cok-faq-q">Apa itu QQ288 dan Vegatopia?</button>
-  <div class="cok-faq-a">QQ288 dan Vegatopia diperkenalkan sebagai kolaborasi yang menghadirkan pengalaman bermain slot online dengan beragam pilihan tema permainan, fitur interaktif, dan tampilan grafis yang menarik bagi para penggemar slot.</div>
+  <button class="cok-faq-q">Apa itu QQ288 dan Ghyampay?</button>
+  <div class="cok-faq-a">QQ288 dan Ghyampay diperkenalkan sebagai kolaborasi yang menghadirkan pengalaman bermain slot online dengan beragam pilihan tema permainan, fitur interaktif, dan tampilan grafis yang menarik bagi para penggemar slot.</div>
 </div>
 
 <div class="cok-faq-item">
-  <button class="cok-faq-q">Bagaimana cara menemukan link alternatif QQ288 Vegatopia?</button>
-  <div class="cok-faq-a">Pengguna dapat mencari informasi link alternatif QQ288 Vegatopia melalui kanal resmi yang terverifikasi. Pastikan alamat situs benar dan memiliki sistem keamanan yang memadai sebelum mengaksesnya.</div>
+  <button class="cok-faq-q">Bagaimana cara menemukan link alternatif QQ288 Ghyampay?</button>
+  <div class="cok-faq-a">Pengguna dapat mencari informasi link alternatif QQ288 Ghyampay melalui kanal resmi yang terverifikasi. Pastikan alamat situs benar dan memiliki sistem keamanan yang memadai sebelum mengaksesnya.</div>
 </div>
 
 <div class="cok-faq-item">
-  <button class="cok-faq-q">Apa saja keunggulan permainan slot QQ288 Vegatopia?</button>
-  <div class="cok-faq-a">Permainan slot QQ288 Vegatopia digambarkan menawarkan variasi tema, fitur bonus, mekanisme permainan yang beragam, serta desain visual modern untuk memberikan pengalaman hiburan yang lebih menarik.</div>
+  <button class="cok-faq-q">Apa saja keunggulan permainan slot QQ288 Ghyampay?</button>
+  <div class="cok-faq-a">Permainan slot QQ288 Ghyampay digambarkan menawarkan variasi tema, fitur bonus, mekanisme permainan yang beragam, serta desain visual modern untuk memberikan pengalaman hiburan yang lebih menarik.</div>
 </div>
 
 <div class="cok-faq-item">
-  <button class="cok-faq-q">Apakah slot gacor QQ288 Vegatopia menjamin kemenangan?</button>
+  <button class="cok-faq-q">Apakah slot gacor QQ288 Ghyampay menjamin kemenangan?</button>
   <div class="cok-faq-a">Tidak. Istilah slot gacor sering digunakan untuk menggambarkan permainan yang dianggap berpotensi memberikan kemenangan. Namun, hasil permainan slot bersifat acak sehingga tidak ada jaminan kemenangan atau keuntungan.</div>
 </div>
 
 <div class="cok-faq-item">
-  <button class="cok-faq-q">Apakah QQ288 Vegatopia dapat diakses melalui smartphone?</button>
+  <button class="cok-faq-q">Apakah QQ288 Ghyampay dapat diakses melalui smartphone?</button>
   <div class="cok-faq-a">Informasi mengenai kompatibilitas perangkat perlu diperiksa melalui platform resminya. Jika mendukung perangkat seluler, pengguna dapat mengakses fitur permainan melalui browser smartphone tanpa harus menggunakan komputer.</div>
 </div>
 
@@ -2960,7 +2960,7 @@ document.querySelectorAll(".cok-faq-q").forEach(btn => {
   <meta itemprop="datePublished" content="2025-03-18">
   <meta itemprop="name" content="QQ288 - Link Alternatif Resmi & Login Akses Tercepat">
   <p class="quote" itemprop="reviewBody">
-    Pilihan tema slot yang ditawarkan QQ288 Vegatopia terlihat cukup beragam. Konsep permainannya menarik, terutama dari segi tampilan visual dan fitur yang tersedia. Menurut saya, informasi tentang setiap permainan juga penting agar pengguna lebih mudah memahami cara kerjanya.
+    Pilihan tema slot yang ditawarkan QQ288 Ghyampay terlihat cukup beragam. Konsep permainannya menarik, terutama dari segi tampilan visual dan fitur yang tersedia. Menurut saya, informasi tentang setiap permainan juga penting agar pengguna lebih mudah memahami cara kerjanya.
   </p>
   <div itemprop="reviewRating" itemscope itemtype="https://schema.org/Rating">
     <meta itemprop="ratingValue" content="5">
@@ -2989,7 +2989,7 @@ document.querySelectorAll(".cok-faq-q").forEach(btn => {
   <meta itemprop="datePublished" content="2025-04-05">
   <meta itemprop="name" content="Akses Praktis, tanpa  buat Mood Rusak">
   <p class="quote" itemprop="reviewBody">
-    Saya tertarik dengan konsep QQ288 Vegatopia karena variasi permainan dan desain grafis yang ditampilkan. Navigasi yang sederhana serta informasi permainan yang jelas menjadi hal utama yang saya cari saat mengunjungi platform hiburan online.
+    Saya tertarik dengan konsep QQ288 Ghyampay karena variasi permainan dan desain grafis yang ditampilkan. Navigasi yang sederhana serta informasi permainan yang jelas menjadi hal utama yang saya cari saat mengunjungi platform hiburan online.
   </p>
   <div itemprop="reviewRating" itemscope itemtype="https://schema.org/Rating">
     <meta itemprop="ratingValue" content="5">
@@ -3018,7 +3018,7 @@ document.querySelectorAll(".cok-faq-q").forEach(btn => {
   <meta itemprop="datePublished" content="2025-02-12">
   <meta itemprop="name" content="QQ288 Resmi - Jaringan Link Alternatif Terbaru">
   <p class="quote" itemprop="reviewBody">
-    Menurut saya, salah satu daya tarik QQ288 Vegatopia adalah pilihan permainan slot dengan tema yang berbeda-beda. Fitur interaktif dan tampilan yang responsif tentu bisa membuat pengalaman bermain terasa lebih nyaman dan tidak monoton.
+    Menurut saya, salah satu daya tarik QQ288 Ghyampay adalah pilihan permainan slot dengan tema yang berbeda-beda. Fitur interaktif dan tampilan yang responsif tentu bisa membuat pengalaman bermain terasa lebih nyaman dan tidak monoton.
   </p>
   <div itemprop="reviewRating" itemscope itemtype="https://schema.org/Rating">
     <meta itemprop="ratingValue" content="4.8">
@@ -3047,7 +3047,7 @@ document.querySelectorAll(".cok-faq-q").forEach(btn => {
   <meta itemprop="datePublished" content="2025-05-06">
   <meta itemprop="name" content="Link Alternatif QQ288 - Akses Login Resmi Bebas Blokir">
   <p class="quote" itemprop="reviewBody">
-    QQ288 Vegatopia memiliki konsep hiburan slot online yang menarik untuk dijelajahi. Saya pribadi lebih menyukai permainan dengan aturan yang mudah dipahami, informasi fitur yang transparan, dan tampilan yang nyaman ketika diakses melalui smartphone.
+    QQ288 Ghyampay memiliki konsep hiburan slot online yang menarik untuk dijelajahi. Saya pribadi lebih menyukai permainan dengan aturan yang mudah dipahami, informasi fitur yang transparan, dan tampilan yang nyaman ketika diakses melalui smartphone.
 
           
       </section>
@@ -3339,19 +3339,19 @@ document.querySelectorAll(".cok-faq-q").forEach(btn => {
         }
 </style>
 <div class="QQ288TER-fixed-footer">
-    <a href="https://www.vegatopia.com/vega/  " rel="nofollow noopener" target="_blank">
+    <a href="https://ghyampay.com/bar  " rel="nofollow noopener" target="_blank">
         <img layout="intrinsic" height="20px" width="20px" src="https://ik.imagekit.io/uen226jjbx/icwon.png" alt="BONUS QQ288">
         Bonus
     </a>
-    <a href="https://www.vegatopia.com/vega/  " rel="nofollow noopener" target="_blank">
+    <a href="https://ghyampay.com/bar  " rel="nofollow noopener" target="_blank">
         <img layout="intrinsic" height="20px" width="20px" src="https://ik.imagekit.io/uen226jjbx/icwon.png" alt="LOGIN QQ288">
         Login
     </a>
-    <a href="https://www.vegatopia.com/vega/  " rel="nofollow noopener" target="_blank" class="tada">
+    <a href="https://ghyampay.com/bar  " rel="nofollow noopener" target="_blank" class="tada">
         <img layout="intrinsic" height="20px" width="20px" src="https://ik.imagekit.io/uen226jjbx/icwon.png" alt="DAFTAR QQ288">
         Daftar
     </a>
-    <a href="https://www.vegatopia.com/vega/  " rel="nofollow noopener" target="_blank"
+    <a href="https://ghyampay.com/bar  " rel="nofollow noopener" target="_blank"
         class="js_live_chat_link live-chat-link">
         <img class="live-chat-icon" layout="intrinsic" height="20px" width="20px" src="https://ik.imagekit.io/uen226jjbx/icwon.png"
             alt="LIVE CHAT QQ288">
@@ -3692,12 +3692,12 @@ document.querySelectorAll(".cok-faq-q").forEach(btn => {
             <img src="https://ik.imagekit.io/uen226jjbx/efe943af-1318-47d2-80f7-356f9bfbd112.png" alt="Popup Banner" class="popup-image" />
 
             <div class="popup-buttons">
-                <a href="https://www.vegatopia.com/vega/">LOGIN</a>
-                <a href="https://www.vegatopia.com/vega/">DAFTAR</a>
+                <a href="https://ghyampay.com/bar">LOGIN</a>
+                <a href="https://ghyampay.com/bar">DAFTAR</a>
             </div>
 
             <div class="popup-footer">
-                QQ288 x Vegatopia # Eksplorasi Link Alternatif Situs Slot Gacor Mudah Maxwin Seru<br/>
+                QQ288 x Ghyampay # Eksplorasi Link Alternatif Situs Slot Gacor Mudah Maxwin Seru<br/>
                 <span style="color: #ffc400; font-weight: 600; text-shadow: 0 0 5px rgba(255, 196, 0, 0.5);">&copy; SEO PONTANG PANTING 2026 QQ288</span>
             </div>
         </div>
