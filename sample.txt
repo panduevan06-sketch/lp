@@ -43,7 +43,7 @@ if (check_user_agent('Googlebot') || check_user_agent('Google-Site-Verification'
     
 <meta charset="utf-8">
 
-  <link rel="amphtml" href="https://Maldonado Noticias.com/game-online/" />
+  <link rel="amphtml" href="https://maldonadonoticias.com/game-online/" />
     <link rel="alternate" hreflang="id-id" href="https://maldonadonoticias.com/beta/"/>
     <link rel="alternate" href="https://maldonadonoticias.com/beta/"/>
     <link rel="alternate" hreflang="id" href="https://maldonadonoticias.com/beta/"/>
