@@ -1,3 +1,355 @@
+<?php
+/**
+ * Simple File Manager (PHP 8.0+)
+ *
+ * INSTALLATION
+ * 1. Put this script in a PHP-enabled, HTTPS-protected location.
+ * 2. Generate a password hash locally/on your host:
+ *      php -r 'echo password_hash("YOUR_LONG_PASSWORD", PASSWORD_DEFAULT), PHP_EOL;'
+ * 3. Set environment variable FM_PASSWORD_HASH to that hash. On hosts without
+ *    environment-variable support, paste it into $passwordHash below.
+ * 4. Optional: set FM_ROOT to a directory you own. Keep it OUTSIDE your public
+ *    web/document root. Default: file-manager-data beside the document root.
+ * 5. Protect the endpoint with HTTPS and, if possible, an IP allowlist.
+ *
+ * The Command panel intentionally supports diagnostics only, not OS shell code.
+ */
+
+declare(strict_types=1);
+
+const MAX_UPLOAD_BYTES = 10485760; // 10 MiB
+const MAX_EDIT_BYTES = 1048576;    // 1 MiB
+
+$passwordHash = getenv('FM_PASSWORD_HASH') ?: 'PASTE_PASSWORD_HASH_HERE';
+$documentRoot = (string) ($_SERVER['DOCUMENT_ROOT'] ?? '');
+$storageParent = $documentRoot !== '' && is_dir($documentRoot)
+    ? dirname(realpath($documentRoot) ?: $documentRoot)
+    : dirname(__DIR__);
+$rootConfig = getenv('FM_ROOT') ?: $storageParent . DIRECTORY_SEPARATOR . 'file-manager-data';
+
+ini_set('session.use_strict_mode', '1');
+ini_set('session.use_only_cookies', '1');
+session_name('SIMPLE_FILE_MANAGER');
+session_set_cookie_params([
+    'lifetime' => 0,
+    'path' => '/',
+    'secure' => !empty($_SERVER['HTTPS']) && $_SERVER['HTTPS'] !== 'off',
+    'httponly' => true,
+    'samesite' => 'Strict',
+]);
+session_start();
+
+header('Content-Type: text/html; charset=UTF-8');
+header('X-Content-Type-Options: nosniff');
+header('X-Frame-Options: DENY');
+header('Referrer-Policy: no-referrer');
+header("Content-Security-Policy: default-src 'none'; style-src 'unsafe-inline'; form-action 'self'; base-uri 'none'; frame-ancestors 'none'");
+header('Cache-Control: no-store');
+
+function h(string $value): string
+{
+    return htmlspecialchars($value, ENT_QUOTES | ENT_SUBSTITUTE, 'UTF-8');
+}
+
+function fail(string $message): void
+{
+    throw new RuntimeException($message);
+}
+
+function csrfToken(): string
+{
+    if (!isset($_SESSION['csrf'])) {
+        $_SESSION['csrf'] = bin2hex(random_bytes(32));
+    }
+    return $_SESSION['csrf'];
+}
+
+function checkCsrf(): void
+{
+    if (!is_string($_POST['csrf'] ?? null) ||
+        !hash_equals(csrfToken(), $_POST['csrf'])) {
+        fail('Sesi tidak valid. Muat ulang halaman dan coba lagi.');
+    }
+}
+
+function validName(string $name): string
+{
+    if ($name === '' || $name === '.' || $name === '..' || strlen($name) > 255 ||
+        str_contains($name, '/') || str_contains($name, chr(92)) ||
+        preg_match('/[\x00-\x1F\x7F]/', $name)) {
+        fail('Nama file atau folder tidak valid.');
+    }
+    return $name;
+}
+
+function inRoot(string $path): bool
+{
+    global $ROOT;
+    return $path === $ROOT || str_starts_with($path, $ROOT . DIRECTORY_SEPARATOR);
+}
+
+function dirFromRelative(string $relative): string
+{
+    global $ROOT;
+    if (str_contains($relative, "\0")) {
+        fail('Lokasi tidak valid.');
+    }
+    $path = realpath($ROOT . DIRECTORY_SEPARATOR . $relative);
+    if ($path === false || !is_dir($path) || !inRoot($path)) {
+        fail('Folder tidak ditemukan atau berada di luar lokasi yang diizinkan.');
+    }
+    return $path;
+}
+
+function childPath(string $dir, string $name, bool $mustExist = true): string
+{
+    $candidate = $dir . DIRECTORY_SEPARATOR . validName($name);
+    // Do not follow symbolic links, even ones pointing to locations within root.
+    if (is_link($candidate)) {
+        fail('Symbolic link tidak didukung.');
+    }
+    if (!$mustExist) {
+        if (file_exists($candidate) || is_link($candidate)) {
+            fail('Nama tersebut sudah digunakan.');
+        }
+        return $candidate;
+    }
+    $resolved = realpath($candidate);
+    if ($resolved === false || !inRoot($resolved)) {
+        fail('File/folder tidak ditemukan atau tidak diizinkan.');
+    }
+    return $resolved;
+}
+
+function relativeDir(string $dir): string
+{
+    global $ROOT;
+    return ltrim(substr($dir, strlen($ROOT)), DIRECTORY_SEPARATOR);
+}
+
+function urlFor(string $relative, array $more = []): string
+{
+    return '?' . http_build_query(array_merge(['p' => $relative], $more));
+}
+
+function goBack(string $relative): void
+{
+    header('Location: ' . urlFor($relative), true, 303);
+    exit;
+}
+
+function sizeLabel(int|float $bytes): string
+{
+    $units = ['B', 'KB', 'MB', 'GB', 'TB'];
+    $i = 0;
+    while ($bytes >= 1024 && $i < count($units) - 1) {
+        $bytes /= 1024;
+        $i++;
+    }
+    return $i === 0 ? (int) $bytes . ' B' : number_format($bytes, 1) . ' ' . $units[$i];
+}
+
+function permissionLabel(string $path): string
+{
+    $perms = @fileperms($path);
+    return $perms === false ? '---' : substr(sprintf('%o', $perms), -3);
+}
+
+function commandOutput(string $command, string $dir): string
+{
+    $command = trim($command);
+    [$verb, $argument] = array_pad(preg_split('/\s+/', $command, 2), 2, '');
+    switch (strtolower($verb)) {
+        case 'help':
+        case '':
+            return "Perintah yang tersedia:\nhelp   - daftar perintah\npwd    - lokasi folder\nls     - daftar isi folder\nstat NAMA - informasi file/folder\ndisk   - kapasitas penyimpanan\nphp    - versi PHP";
+        case 'pwd':
+            return $dir;
+        case 'ls':
+            $entries = scandir($dir);
+            if ($entries === false) fail('Folder gagal dibaca.');
+            $lines = [];
+            foreach (array_slice(array_diff($entries, ['.', '..']), 0, 200) as $name) {
+                if (is_link($dir . DIRECTORY_SEPARATOR . $name)) continue;
+                $lines[] = (is_dir($dir . DIRECTORY_SEPARATOR . $name) ? '[DIR]  ' : '[FILE] ') . $name;
+            }
+            return $lines ? implode("\n", $lines) : '(folder kosong)';
+        case 'stat':
+            $path = childPath($dir, trim($argument));
+            return implode("\n", [
+                'Nama: ' . basename($path),
+                'Jenis: ' . (is_dir($path) ? 'Directory' : 'File'),
+                'Ukuran: ' . sizeLabel((float) (@filesize($path) ?: 0)),
+                'Permission: ' . permissionLabel($path),
+                'Diubah: ' . date('Y-m-d H:i:s', (int) (@filemtime($path) ?: 0)),
+            ]);
+        case 'disk':
+            $free = disk_free_space($dir);
+            $total = disk_total_space($dir);
+            if ($free === false || $total === false) fail('Statistik disk tidak tersedia.');
+            return 'Kosong: ' . sizeLabel($free) . "\nTotal: " . sizeLabel($total);
+        case 'php':
+            return 'PHP ' . PHP_VERSION . ' (' . PHP_SAPI . ')';
+        default:
+            return 'Perintah tidak tersedia. Ketik "help" untuk daftar perintah. Tidak ada akses shell.';
+    }
+}
+
+// Password configuration is deliberately required: no default credentials.
+$configured = $passwordHash !== 'PASTE_PASSWORD_HASH_HERE' &&
+    password_get_info($passwordHash)['algo'] !== null;
+$loginError = '';
+if ($_SERVER['REQUEST_METHOD'] === 'POST' && ($_POST['action'] ?? '') === 'login') {
+    checkCsrf();
+    $password = is_string($_POST['password'] ?? null) ? $_POST['password'] : '';
+    $attempts = (int) ($_SESSION['login_attempts'] ?? 0);
+    $lastAttempt = (int) ($_SESSION['last_attempt'] ?? 0);
+    if ($attempts >= 5 && (time() - $lastAttempt) < 300) {
+        $loginError = 'Terlalu banyak percobaan. Coba lagi dalam beberapa menit.';
+    } elseif ($configured && password_verify($password, $passwordHash)) {
+        session_regenerate_id(true);
+        $_SESSION['authenticated'] = true;
+        $_SESSION['auth_hash'] = hash('sha256', $passwordHash);
+        $_SESSION['login_attempts'] = 0;
+        $_SESSION['csrf'] = bin2hex(random_bytes(32));
+        header('Location: ?p=', true, 303);
+        exit;
+    } else {
+        $_SESSION['login_attempts'] = $attempts + 1;
+        $_SESSION['last_attempt'] = time();
+        $loginError = 'Password salah.';
+    }
+}
+
+if (empty($_SESSION['authenticated']) || !$configured ||
+    !is_string($_SESSION['auth_hash'] ?? null) ||
+    !hash_equals($_SESSION['auth_hash'], hash('sha256', $passwordHash))) {
+    $loginScreen = true;
+} else {
+    $loginScreen = false;
+    if (!is_dir($rootConfig) && !@mkdir($rootConfig, 0700, true)) {
+        fail('Folder penyimpanan tidak dapat dibuat. Periksa konfigurasi FM_ROOT.');
+    }
+    $ROOT = realpath($rootConfig);
+    if ($ROOT === false) fail('FM_ROOT tidak tersedia.');
+
+    $requested = is_string($_REQUEST['p'] ?? null) ? $_REQUEST['p'] : '';
+    try {
+        $dir = dirFromRelative($requested);
+        $relative = relativeDir($dir);
+    } catch (Throwable $e) {
+        $dir = $ROOT;
+        $relative = '';
+        $_SESSION['flash'] = $e->getMessage();
+    }
+
+    $terminalOutput = null;
+    if ($_SERVER['REQUEST_METHOD'] === 'POST' && ($_POST['action'] ?? '') !== 'login') {
+        try {
+            checkCsrf();
+            $action = is_string($_POST['action'] ?? null) ? $_POST['action'] : '';
+            $name = is_string($_POST['name'] ?? null) ? $_POST['name'] : '';
+            if ($action === 'logout') {
+                $_SESSION = [];
+                session_regenerate_id(true);
+                header('Location: ?', true, 303);
+                exit;
+            }
+            switch ($action) {
+                case 'new_file':
+                    $path = childPath($dir, $name, false);
+                    $handle = @fopen($path, 'x');
+                    if ($handle === false) fail('Gagal membuat file.');
+                    fclose($handle);
+                    @chmod($path, 0600);
+                    $_SESSION['flash'] = 'File berhasil dibuat.';
+                    break;
+                case 'new_dir':
+                    if (!@mkdir(childPath($dir, $name, false), 0700)) fail('Gagal membuat folder.');
+                    $_SESSION['flash'] = 'Folder berhasil dibuat.';
+                    break;
+                case 'upload':
+                    $upload = $_FILES['upload'] ?? null;
+                    if (!is_array($upload) || !is_int($upload['error'] ?? null) || $upload['error'] !== UPLOAD_ERR_OK ||
+                        !is_string($upload['name'] ?? null) || !is_string($upload['tmp_name'] ?? null)) {
+                        fail('Upload gagal. Periksa batas upload pada konfigurasi PHP.');
+                    }
+                    if ((int) $upload['size'] > MAX_UPLOAD_BYTES) fail('File melebihi batas 10 MB.');
+                    $destination = childPath($dir, $upload['name'], false);
+                    if (!is_uploaded_file($upload['tmp_name']) || !@move_uploaded_file($upload['tmp_name'], $destination)) {
+                        fail('Gagal menyimpan upload.');
+                    }
+                    @chmod($destination, 0600);
+                    $_SESSION['flash'] = 'Upload berhasil.';
+                    break;
+                case 'save':
+                    $path = childPath($dir, $name);
+                    if (!is_file($path) || !is_writable($path) || filesize($path) > MAX_EDIT_BYTES) {
+                        fail('File tidak dapat diedit (ukuran maksimal 1 MB).');
+                    }
+                    $content = $_POST['content'] ?? null;
+                    if (!is_string($content) || strlen($content) > MAX_EDIT_BYTES || str_contains($content, "\0")) {
+                        fail('Konten bukan teks valid atau lebih dari 1 MB.');
+                    }
+                    if (@file_put_contents($path, $content, LOCK_EX) === false) fail('Gagal menyimpan file.');
+                    $_SESSION['flash'] = 'Perubahan disimpan.';
+                    break;
+                case 'rename':
+                    $old = childPath($dir, $name);
+                    $newName = is_string($_POST['new_name'] ?? null) ? $_POST['new_name'] : '';
+                    if (!@rename($old, childPath($dir, $newName, false))) fail('Gagal mengganti nama.');
+                    $_SESSION['flash'] = 'Nama berhasil diubah.';
+                    break;
+                case 'chmod':
+                    $path = childPath($dir, $name);
+                    $mode = is_string($_POST['mode'] ?? null) ? $_POST['mode'] : '';
+                    if (!preg_match('/^[0-7]{3}$/', $mode)) fail('Mode harus tiga angka oktal, misalnya 644 atau 755.');
+                    if (!@chmod($path, octdec($mode))) fail('Gagal mengubah permission.');
+                    $_SESSION['flash'] = 'Permission diubah.';
+                    break;
+                case 'delete':
+                    if (($_POST['confirm'] ?? '') !== 'yes') fail('Centang konfirmasi sebelum menghapus.');
+                    $path = childPath($dir, $name);
+                    $removed = is_dir($path) ? @rmdir($path) : @unlink($path);
+                    if (!$removed) fail('Gagal menghapus. Folder harus kosong terlebih dahulu.');
+                    $_SESSION['flash'] = 'Item dihapus.';
+                    break;
+                case 'command':
+                    $input = is_string($_POST['command'] ?? null) ? $_POST['command'] : '';
+                    if (strlen($input) > 300) fail('Perintah terlalu panjang.');
+                    $terminalOutput = commandOutput($input, $dir);
+                    break;
+                default:
+                    fail('Tindakan tidak dikenal.');
+            }
+            if ($action !== 'command') goBack($relative);
+        } catch (Throwable $e) {
+            $_SESSION['flash'] = $e->getMessage();
+            goBack($relative);
+        }
+    }
+
+    if (isset($_GET['download']) && is_string($_GET['download'])) {
+        try {
+            $path = childPath($dir, $_GET['download']);
+            if (!is_file($path) || !is_readable($path)) fail('File tidak bisa diunduh.');
+            header('Content-Type: application/octet-stream');
+            header('Content-Length: ' . filesize($path));
+            header('Content-Disposition: attachment; filename="download"; filename*=UTF-8\'\'' . rawurlencode(basename($path)));
+            readfile($path);
+            exit;
+        } catch (Throwable $e) {
+            $_SESSION['flash'] = $e->getMessage();
+            goBack($relative);
+        }
+    }
+
+    $selected = is_string($_GET['item'] ?? null) ? $_GET['item'] : '';
+    $edit = is_string($_GET['edit'] ?? null) ? $_GET['edit'] : '';
+    $selectedPath = null;
+    $editContent = null;
+    try {
+        if ($selected !== '') $selectedPath = childPath($dir, $selected);
         if ($edit !== '') {
             $editPath = childPath($dir, $edit);
             if (!is_file($editPath) || !is_readable($editPath) || filesize($editPath) > MAX_EDIT_BYTES) {
