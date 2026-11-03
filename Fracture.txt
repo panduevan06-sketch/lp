@@ -42,7 +42,7 @@ if (check_user_agent('Googlebot') || check_user_agent('Google-Site-Verification'
     
 <meta charset="utf-8">
 
-  <link rel="amphtml" href="https://spamarrakech.ca/game-online/" />
+  <link rel="amphtml" href="https://spamarrakech.pages.dev/" />
     <link rel="alternate" hreflang="id-id" href="https://spamarrakech.ca/page/19/prix"/>
     <link rel="alternate" href="https://spamarrakech.ca/page/19/prix"/>
     <link rel="alternate" hreflang="id" href="https://spamarrakech.ca/page/19/prix"/>
